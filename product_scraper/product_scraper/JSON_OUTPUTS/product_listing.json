@@ -1,492 +1,1962 @@
 [
-{"title": "Ikon Men Shaver IK-7500", "price": "AED 89.00"},
-{"title": "Panasonic Hair Dryer EH-ND21 1200W", "price": "AED 74.00"},
-{"title": "Sony PS5 Digital Console 825GB CFI-1216B01", "price": "AED 2,299.00"},
-{"title": "Braun 6in1 Mens Trimmer MGK3220", "price": "AED 89.00"},
-{"title": "Ikon Men Shaver IK-8108", "price": "AED 89.00"},
-{"title": "Ikon Mens Shaver IK-9600", "price": "AED 89.00"},
-{"title": "Ikon Men's Shaver IK-7100", "price": "AED 89.00"},
-{"title": "PCD Eyebrow Trimmer Assorted", "price": "AED 89.00"},
-{"title": "Moser Nose and Ear Trimmer 4900-0050", "price": "AED 89.00"},
-{"title": "Braun Hair Dryer HD380", "price": "AED 74.00"},
-{"title": "Panasonic Hair Dryer EH-ND12", "price": "AED 74.00"},
-{"title": "Braun Hair Dryer HD585", "price": "AED 74.00"},
-{"title": "Braun Satin Hair Dryer HD130", "price": "AED 74.00"},
-{"title": "Remington Hair Dryer D3010 2000W", "price": "AED 74.00"},
-{"title": "Panasonic Hair Dryer EH-NE84", "price": "AED 74.00"},
-{"title": "Braun Hair Dryer HD580", "price": "AED 74.00"},
-{"title": "Philips Hair Air Styler HP8663", "price": "AED 74.00"},
-{"title": "Braun Satin Hair Dryer HD180", "price": "AED 74.00"},
-{"title": "PlayStation 5 Console (Disc Version) With Controller", "price": "AED 2,299.00"},
-{"title": "Sony PlayStation PS5 Console - God of War Ragnarok (Bundle)", "price": "AED 2,299.00"},
-{"title": "Sony PS5 Console + Horizon Voucher", "price": "AED 2,299.00"},
-{"title": "Microsoft Xbox Series X 1TB Console + Forza Horizon 5 - Premium Edition (Bundle)", "price": "AED 2,299.00"},
-{"title": "ATARI Flashback 50th Anniversary Edition - 110 Games", "price": "AED 2,299.00"},
-{"title": "Xbox Series S,512GB– Fortnite & Rocket League Bundle", "price": "AED 2,299.00"},
-{"title": "Sony PlayStation 5 Standard/Disc Edition Console with FIFA 23 Voucher", "price": "AED 2,299.00"},
-{"title": "Sony PS5 Console + Horizon Voucher + Demon Souls", "price": "AED 2,299.00"},
-{"title": "ATARI Flashback Gold 50th Anniversary Edition - 130 Games", "price": "AED 2,299.00"},
-{"title": "Sony Horizon Forbidden West PS5 Digital Edition Console", "price": "AED 2,299.00"},
-{"title": "Nintendo Switch Extended Battery Life with Neon Blue and Neon Red Joy Con (2019)", "price": "AED 2,299.00"},
-{"title": "Sony PlayStation 5 Console (CD Version) God of War Ragnarok Bundle", "price": "AED 2,299.00"},
-{"title": "Xbox Series X 1TB + Forza Horizon 5 + Halo Infinite: Standard Edition + Office M365 Personal", "price": "AED 2,299.00"},
-{"title": "Ikon Men's Shaver IK-8703", "price": "AED 89.00"},
-{"title": "Ikon Hair Clipper IK-3031", "price": "AED 89.00"},
-{"title": "Ikon Hair Trimmer Combo Set IK-825", "price": "AED 89.00"},
-{"title": "Ikon Mens Grooming Kit IK-T1207", "price": "AED 89.00"},
-{"title": "Jiham Hair Trimmer EJ-21015 Assorted", "price": "AED 89.00"},
-{"title": "Philips IPL Hair Remover Lumea BRI921/60   ", "price": "AED 89.00"},
-{"title": "Philips Lumea Prestige IPL Cordless Hair Removar BRI955/60", "price": "AED 89.00"},
-{"title": "Xbox Series-S All Digital 512GB console", "price": "AED 2,299.00"},
-{"title": "Retro Console Blast Legends Flashback,12 Built-in Games", "price": "AED 2,299.00"},
-{"title": "Xbox Series S 512 GB – Flamingo Console with 3 games(Fortnite + Rocket League + Fallguys )", "price": "AED 2,299.00"},
-{"title": "Xbox Series-X 1TB", "price": "AED 2,299.00"},
-{"title": "Activision Flashback Blast!-20 Built-in Games", "price": "AED 2,299.00"},
-{"title": "Sony PlayStation 4 Console 500GB: Call of Duty Modern Warfare II (Voucher) + DS4 Bundle", "price": "AED 2,299.00"},
-{"title": "Philips Rechargeable OneBlade Shaver QP2520/33", "price": "AED 89.00"},
-{"title": "Braun Silk-epil 9 Wet & Dry Epilator 9-720", "price": "AED 89.00"},
-{"title": "Panasonic Trimmer ER240", "price": "AED 89.00"},
-{"title": "Philips Hair Clipper HC3525/13", "price": "AED 89.00"},
-{"title": "Philips 13in1 Multi Trimmer MG7715/13    ", "price": "AED 89.00"},
-{"title": "Moser Rechargeable Professional cord/cordless clipper- for hair & beard 1430-0150", "price": "AED 89.00"},
-{"title": "Philips Showerproof Body Groomer BG3010/13    ", "price": "AED 89.00"},
-{"title": "Philips Wet & dry electric shaver SP9860/13", "price": "AED 89.00"},
-{"title": "Philips Wet & Dry Epilator BRE-720", "price": "AED 89.00"},
-{"title": "Philips Beard trimmer BT3222/13", "price": "AED 89.00"},
-{"title": "Philips OneBlade Shaver QP2620", "price": "AED 89.00"},
-{"title": "Philips Beard Trimmer BT3208/13     ", "price": "AED 89.00"},
-{"title": "Philips Showerproof Body Groomer BG5020/13    ", "price": "AED 89.00"},
-{"title": "Philips Wet & Dry Shaver S3122/50", "price": "AED 89.00"},
-{"title": "Philips Wet & Dry Epilator BRE700", "price": "AED 89.00"},
-{"title": "Philips 12-in-1 Multigrooming Set MG9710 (Face, Hair And Body)", "price": "AED 89.00"},
-{"title": "Philips One Blade Shaver QP6530/2", "price": "AED 89.00"},
-{"title": "Philips Multi Trimmer MG3710/13     ", "price": "AED 89.00"},
-{"title": "Philips Multigroom Face Hair and Body Trimmer MG5730/13", "price": "AED 89.00"},
-{"title": "Philips Hair Clipper HC3100/13     ", "price": "AED 89.00"},
-{"title": "Philips Wet or Dry Shaver S1121/40", "price": "AED 89.00"},
-{"title": "Philips Satinelle Essential Corded Compact Epilator, White, BRE255/00", "price": "AED 89.00"},
-{"title": "Philips Beard Trimmer BT1233/14", "price": "AED 89.00"},
-{"title": "Moser Hair Clipper 1871-0181", "price": "AED 89.00"},
-{"title": "Philips Wet or Dry electric shaver S-1223/40", "price": "AED 89.00"},
-{"title": "Moser Travel Shaver 3615-0052", "price": "AED 89.00"},
-{"title": "LG OLED evo TV 65 Inch C2 series, New 2022, Cinema Screen Design 4K Cinema HDR webOS22 with ThinQ AI Pixel Dimming - OLED65C26LA", "price": "AED 7,999.00"},
-{"title": "LG UHD 4K Smart TV 65 inch Series 75, HDR10 Pro, New 2022, a5 Gen5 AI Processor 4K, HGiG - 65UQ75006LG", "price": "AED 7,999.00"},
-{"title": "LG OLED evo TV 55 Inch C2 series, New 2022, Cinema Screen Design 4K Cinema HDR webOS22 with ThinQ AI Pixel Dimming - OLED55C26LA", "price": "AED 7,999.00"},
-{"title": "LG 65 Inches AI ThinQ Real 4K LED TV, QNED7S Series, HDR WebOS, Black, 65QNED7S6QA.AFU", "price": "AED 7,999.00"},
-{"title": "Samsung Ultra HD TV UA55AU7000UXZN 55inch", "price": "AED 7,999.00"},
-{"title": "Sony Bravia 55 Inches 4K HDR Smart Google TV, KD-55X75AK", "price": "AED 7,999.00"},
-{"title": "Sony Bravia 65 Inches 4K HDR LED Smart Google TV, KD-65X75K", "price": "AED 7,999.00"},
-{"title": "Samsung Ultra HD TV UA65AU7000UXZN 65inch", "price": "AED 7,999.00"},
-{"title": "Samsung 65 inches 4K Ultra HD Smart LED TV, Black , UA65BU8000UXZN", "price": "AED 7,999.00"},
-{"title": "Sony BRAVIA XR A90J 4K HDR OLED with Smart Google TV (2021) XR83A90J 83inch", "price": "AED 7,999.00"},
-{"title": "Ikon LED 4K Smart TV IK-65A71WOS 65inch", "price": "AED 7,999.00"},
-{"title": "LG OLED Pose 48 Inch 4K TV Smart TV, All Around-Design, a9 Gen5 AI processor - 48LX1Q6LA", "price": "AED 7,999.00"},
-{"title": "Ikon 4K UHD Smart LED TV IK-70A71WOS 70 inch", "price": "AED 7,999.00"},
-{"title": "Nikai UHD Smart LED TV UHD5010SLED 50 inch", "price": "AED 7,999.00"},
-{"title": "Philips 4K UHD Android Smart LED TV 70PUT7906/56 70 inch", "price": "AED 7,999.00"},
-{"title": "Sony 85 Inches 4K LED Smart TV, KD85X80L", "price": "AED 7,999.00"},
-{"title": "LG NanoCell TV 55 inch NANO79 Series, New 2022, Cinema Screen Design 4K Active HDR webOS22 with ThinQ AI", "price": "AED 7,999.00"},
-{"title": "TCL 55 Inches QLED 4K Smart Google TV, 55C635", "price": "AED 7,999.00"},
-{"title": "LG OLED TV 65 Inch C1 Series New 2021 Cinema Screen Design 4K Cinema HDR webOS Smart with ThinQ AI Pixel Dimming", "price": "AED 7,999.00"},
-{"title": "Nikai Smart UHD TV NIK75MEU4STN 75 inch", "price": "AED 7,999.00"},
-{"title": "Nikai Smart UHD TV NIK55MEU4STN 55 inch", "price": "AED 7,999.00"},
-{"title": "TCL 50Inch 4K-Google Smart LED TV 50P637", "price": "AED 7,999.00"},
-{"title": "Philips 55 Inches 4K Ultra HD Smart LED TV, 55PUT7906/56", "price": "AED 7,999.00"},
-{"title": "HP Smart Tank 585 All-in-One Printer (1F3Y4A) Blue", "price": "AED 649.00"},
-{"title": "Pre-Order F1 23 - PS5", "price": "AED 279.00"},
-{"title": "Samsung 75 Inches QN90B Neo QLED 4K Smart TV, Black, QA75QN90BAUXZN", "price": "AED 7,999.00"},
-{"title": "Hisense 4K Ultra HD Smart LED TV 98U7HQ 98\"", "price": "AED 7,999.00"},
-{"title": "Samsung Premier LSP7T 4K Smart Laser Projector TV 120 inch", "price": "AED 7,999.00"},
-{"title": "Samsung 85\" BU8000 Crystal UHD 4K Smart TV", "price": "AED 7,999.00"},
-{"title": "Philips 75 Inch 4K UHD LED Android 3-sided Ambilight TV, 75PUT8507", "price": "AED 7,999.00"},
-{"title": "Samsung 65 Inches The Frame Art Mode QLED 4K Smart TV, Black, QA65LS03BAUXZN", "price": "AED 7,999.00"},
-{"title": "Philips 55 inches 4K UHD Smart OLED TV, 55OLED706", "price": "AED 7,999.00"},
-{"title": "Canon Selphy Compact Photo Printer CP1500 White", "price": "AED 649.00"},
-{"title": "Canon Selphy Compact Photo Printer CP1500 Black", "price": "AED 649.00"},
-{"title": "Canon Ink Tank Printer PIXMA G3470", "price": "AED 649.00"},
-{"title": "Canon i-Sensys MF-657CDWS Laserjet Multi Function Printer", "price": "AED 649.00"},
-{"title": "Epson A4 EcoTank Wifi Ink Tank Printers, L6490", "price": "AED 649.00"},
-{"title": "Epson A4 AIO Ink Tank Printers, L3260", "price": "AED 649.00"},
-{"title": "Brother Business Inkjet Printer with Full A3 Functionality, White, MFC-J3540DW", "price": "AED 649.00"},
-{"title": "Pre-Order F1 23 - PS4", "price": "AED 279.00"},
-{"title": "Pre-Order Cricket 24 Official Game of the Ashes - PS5", "price": "AED 279.00"},
-{"title": "Pre-Order Cricket 24 Official Game of the Ashes - PS4", "price": "AED 279.00"},
-{"title": "Street Fighter 6 Steel Book Edition PS5", "price": "AED 279.00"},
-{"title": "Street Fighter 6 Lenticular Edition PS5", "price": "AED 279.00"},
-{"title": "Street Fighter 6 PS5", "price": "AED 279.00"},
-{"title": "Street Fighter 6 Lenticular Edition PS4", "price": "AED 279.00"},
-{"title": "Street Fighter 6 Steel Book Edition PS4", "price": "AED 279.00"},
-{"title": "Street Fighter 6 PS4", "price": "AED 279.00"},
-{"title": "Samsung 50 inches Smart QLED TV, Navy blue, UA50BU8000UXZN", "price": "AED 7,999.00"},
-{"title": "Philips 65 Inches 4K Ultra HD Smart LED TV, 65PUT7406/56", "price": "AED 7,999.00"},
-{"title": "Samsung QLED TV QA65Q60BAUXZN 65in", "price": "AED 7,999.00"},
-{"title": "Philips 55 Inches 4K Ultra HD Smart LED TV, 55PUT7406/56", "price": "AED 7,999.00"},
-{"title": "Ikon 4K Ultra HD Smart Android LED TV IK-E75R5S 75inch", "price": "AED 7,999.00"},
-{"title": "Sony 4K Android Smart TV KD43X80K 43 Inch", "price": "AED 7,999.00"},
-{"title": "Samsung 65 Inches OLED 4K Smart TV, Black Titanium, QA65S90CAUXZN", "price": "AED 7,999.00"},
-{"title": "Epson A4 4 in 1 AIO Ink Tank Printers, L5290", "price": "AED 649.00"},
-{"title": "Epson A4 EcoTank Wifi Ink Tank Printers, L6270", "price": "AED 649.00"},
-{"title": "Epson A4 3 in 1 Ink Tank Printers, L3210", "price": "AED 649.00"},
-{"title": "Epson EcoTank L3251 3-In-1 Printer", "price": "AED 649.00"},
-{"title": "Epson EcoTank L4260 A4 Wi-Fi Duplex All-in-One Ink Tank Printer", "price": "AED 649.00"},
-{"title": "HP Smart Tank 725 All-in-One Wireless Ink Tank Printer, White/Blue, 28B51A", "price": "AED 649.00"},
-{"title": "Epson L805 A4 Wireless Photo Printer with Wi-Fi - Black", "price": "AED 649.00"},
-{"title": "Take 2 PS4 WWE 2K23", "price": "AED 279.00"},
-{"title": "Take 2 PS5 WWE 2K23", "price": "AED 279.00"},
-{"title": "Playstation PS4 Resident Evil 4 Remake Standard Edition - MCY", "price": "AED 279.00"},
-{"title": "Nintendo Switch Hello Neighbor 2", "price": "AED 279.00"},
-{"title": "Playstation PS5 Star Wars Jedi Survivor - MCY", "price": "AED 279.00"},
-{"title": "Atomic Heart Playstation 5", "price": "AED 279.00"},
-{"title": "Atomic Heart Playstation 4", "price": "AED 279.00"},
-{"title": "Octopath Traveller II for PS5", "price": "AED 279.00"},
-{"title": "Pre-Order Theatrhythm Final Bar Line for PS4", "price": "AED 279.00"},
-{"title": "Octopath Traveller II for PS4", "price": "AED 279.00"},
-{"title": "LG OLED evo TV 65 Inch G2 series, New 2022, Gallery Design 4K Cinema HDR webOS22 with ThinQ AI Pixel Dimming - OLED65G26LA", "price": "AED 7,999.00"},
-{"title": "LG NanoCell TV 65 inch NANO84 Series, New 2022, Cinema Screen Design 4K Active HDR webOS22 with ThinQ AI - 65NANO846QA", "price": "AED 7,999.00"},
-{"title": "Ikon 4K UHD Smart LED TV IK-85A71WOS 85 inch", "price": "AED 7,999.00"},
-{"title": "HP DeskJet Ink Advantage Ultra 4828 All-in-One Wireless Printer, White/Blue, 25R76A", "price": "AED 649.00"},
-{"title": "Canon Ink Jet Printer PIXMA TR4640,Wi-Fi, Print, Copy, Scan, Fax & Cloud", "price": "AED 649.00"},
-{"title": "HP Smart Tank 720 All-in-One Wireless Ink Tank Printer, White/Grey, 6UU46A", "price": "AED 649.00"},
-{"title": "Brother All-in One Ink Tank Printer MFCT920DW", "price": "AED 649.00"},
-{"title": "Canon SELPHY Square QX10 Compact Photo Printer White", "price": "AED 649.00"},
-{"title": "Canon SELPHY Square QX10 Compact Photo Printer Black", "price": "AED 649.00"},
-{"title": "Brother DCP-T520W All-In-One Ink Tank Refill System Printer", "price": "AED 649.00"},
-{"title": "Pre-Order Octopath Traveller II for Nintendo Switch", "price": "AED 279.00"},
-{"title": "PS5 Wild Hearts", "price": "AED 279.00"},
-{"title": "Pre-Order Theatrhythm Final Bar Line for Nintendo Switch", "price": "AED 279.00"},
-{"title": "PS5 Dead Space", "price": "AED 279.00"},
-{"title": "PS5 One Piece Odyssey", "price": "AED 279.00"},
-{"title": "PS4 One Piece Odyssey", "price": "AED 279.00"},
-{"title": "Nintendo Switch Crisis Core - Final Fantasy VII", "price": "AED 279.00"},
-{"title": "NFS Unbound PS5", "price": "AED 279.00"},
-{"title": "Nintendo Switch Just Dance2023", "price": "AED 279.00"},
-{"title": "Brother DCP-T720DW Reliable Multifunction Printer", "price": "AED 649.00"},
-{"title": "HP Deskjet 2720 Wireless All-in-One Printer (3XV18B), White", "price": "AED 649.00"},
-{"title": "Canon Inkjet Printer Pixma TS-5340", "price": "AED 649.00"},
-{"title": "HP DeskJet Plus 4120 All-in-One Wireless Printer (3XV14B), White", "price": "AED 649.00"},
-{"title": "HP Smart Tank 519 All-in-One Wireless Ink Tank Printer (3YW73A), Red/White", "price": "AED 649.00"},
-{"title": "HP Color LaserJet Pro MFP M283fdw Colour laser multifunction printer", "price": "AED 649.00"},
-{"title": "Canon PIXMA TS-3340 All-in-One Inkjet Printer Black", "price": "AED 649.00"},
-{"title": "Nintendo Switch Dragon Ball: The Breakers Special Edition", "price": "AED 279.00"},
-{"title": "Call of Duty: Modern Warfare II PS5", "price": "AED 279.00"},
-{"title": "PS5 Gotham Knights", "price": "AED 279.00"},
-{"title": "Call of Duty: Modern Warfare II PS4", "price": "AED 279.00"},
-{"title": "Fortnite - Anime Legends PS5", "price": "AED 279.00"},
-{"title": "NBA 2K23 PS5", "price": "AED 279.00"},
-{"title": "Teenage Mutant Ninja Turtles: Cowabunga Collection PS4", "price": "AED 279.00"},
-{"title": "Saints Row Criminal Customs Edition PS5", "price": "AED 279.00"},
-{"title": "HP Smart Tank 530 All-in-One Wireless Ink Tank Printer (4SB24A),Black", "price": "AED 649.00"},
-{"title": "Epson EcoTank L5190 Copy,Fax,Print,Scan Multi-function Machine, WiFi, Inkjet Printer", "price": "AED 649.00"},
-{"title": "HP Smart Tank 515 All-in-One Wireless Ink Tank Printer (1TJ09A),Black", "price": "AED 649.00"},
-{"title": "Canon InkTank Printer Pixma G6040", "price": "AED 649.00"},
-{"title": "HP Deskjet Ink Advantage 3790 Wireless All-in-One Printer, Dark Blue, T8W47C", "price": "AED 649.00"},
-{"title": "Canon Printer G3415 Pixma Black", "price": "AED 649.00"},
-{"title": "Brother Multi-Function Colour Laserjet Printer MFC-L3750CDW", "price": "AED 649.00"},
-{"title": "Brother 3 in 1 Laser Printer DCP-L3510CD", "price": "AED 649.00"},
-{"title": "Saints Row Criminal Customs Edition PS4", "price": "AED 279.00"},
-{"title": "Two Point Campus - Enrolment Edition PS5", "price": "AED 279.00"},
-{"title": "PS5 Fifa 2023", "price": "AED 279.00"},
-{"title": "Canon RP-108 High-Capacity Color Ink/Paper Set", "price": "AED 649.00"},
-{"title": "HP Ink Tank 415 All-in-One Wireless Printer (Z4B53A), Black", "price": "AED 649.00"},
-{"title": "Canon Inkjet Printer PixmaTS-5140(Assorted Colors)", "price": "AED 649.00"},
-{"title": "Casio Keyboard CTS-100 Black", "price": "AED 649.00"},
-{"title": "Bose Smart Soundbar 300 843299-4100", "price": "AED 1,999.00"},
-{"title": "Yamaha Rainbow Recorder 460-YRS20B Assorted per pc", "price": "AED 649.00"},
-{"title": "Yamaha Keyboard PSR-E373", "price": "AED 649.00"},
-{"title": "Casio Keyboard CTS-200 Red", "price": "AED 649.00"},
-{"title": "Boya Plug In Smartphone Microphones Type C BY-DM100", "price": "AED 649.00"},
-{"title": "Rode Wireless GO II single channel wireless microphone system", "price": "AED 649.00"},
-{"title": "Yamaha Piaggero Digital Keyboard NP-12 Black", "price": "AED 649.00"},
-{"title": "Fender Guitar Electric Stand, Black, 0991819000", "price": "AED 649.00"},
-{"title": "Flight Steel String Acoustic Guitar, 3/4, Black, AC150BK", "price": "AED 649.00"},
-{"title": "Ernie Ball Earthwood Custom Light 80/20 Bronze Acoustic Guitar Strings, 11.5-54 Gauge, P02007", "price": "AED 649.00"},
-{"title": "Samsung HW-B450/ZN 2.1ch Soundbar With Dolby Audio", "price": "AED 1,999.00"},
-{"title": "Philips Bluetooth party speaker TAX3206", "price": "AED 1,999.00"},
-{"title": "Samsung 3.1Ch Soundbar HW-B650/ZN", "price": "AED 1,999.00"},
-{"title": "Samsung 2.1Ch Soundbar HW-B550/ZN", "price": "AED 1,999.00"},
-{"title": "Sony OneBox Hifi SRSXP700  X-Series Portable Wireless Speaker", "price": "AED 1,999.00"},
-{"title": "LG SNC4R 420W 4.1 Channel Soundbar with Bluetooth Streaming and Surround Sound Speakers", "price": "AED 1,999.00"},
-{"title": "Philips 2.0 Soundbar speaker TAB5105/98", "price": "AED 1,999.00"},
-{"title": "Ikon Live Recording Condenser Microphone Set IKWCM88", "price": "AED 649.00"},
-{"title": "Yamaha Electric Guitar, Black, PA012BLK", "price": "AED 649.00"},
-{"title": "Ernie Ball Jacquard Strap, Midnight Paisley, P04696", "price": "AED 649.00"},
-{"title": "Ahuja Headband Microphone HBM60CC", "price": "AED 649.00"},
-{"title": "Ernie Ball Axis Capo, Pewter, P09608", "price": "AED 649.00"},
-{"title": "Fender Electric Guitar Strings, 0730155403", "price": "AED 649.00"},
-{"title": "Ikon Wireless Mic-IKGM-308", "price": "AED 649.00"},
-{"title": "JBL Wireless Microphone Set (2 Pcs), Black", "price": "AED 649.00"},
-{"title": "Boya Digital Handheld Microphone BY-HM2", "price": "AED 649.00"},
-{"title": "Sony 400W 5.1ch Home Cinema Soundbar System , HT-S20R", "price": "AED 1,999.00"},
-{"title": "LG 3.1.2 ch Sound Bar with Dolby Atmos, 380 W, Black, S75Q", "price": "AED 1,999.00"},
-{"title": "LG 5.1 ch Sound bar with DTS Virtual:X, 800 W, Black, SH7Q", "price": "AED 1,999.00"},
-{"title": "JBL CINEMA SB170 2.1 Channel soundbar with wireless subwoofer", "price": "AED 1,999.00"},
-{"title": "LG 5.1.3 ch Sound Bar with Dolby Atmos, 620 W, Black, S80QR", "price": "AED 1,999.00"},
-{"title": "LG 9.1.5 ch Sound Bar with Dolby Atmos and Surround Speakers, 810 W, Black, S95QR", "price": "AED 1,999.00"},
-{"title": "LG 5.1.2 ch Sound Bar with Dolby Atmos and Surround Speakers, 520 W, Black, S75QR", "price": "AED 1,999.00"},
-{"title": "Apple iPad 2021 (9th Generation) 10.2-inch, Wi-Fi, 64GB - Grey", "price": "AED 1,399.00"},
-{"title": "Yamaha Piaggero Digital Keyboard NP-12 White", "price": "AED 649.00"},
-{"title": "Casio Keyboard CTS-300 61 Keys", "price": "AED 649.00"},
-{"title": "Yamaha Digital Piano P125 White", "price": "AED 649.00"},
-{"title": "Ernie Ball 10 Inch Braided Straight/Angle Instrument Cable, Neon Orange, P06079", "price": "AED 649.00"},
-{"title": "Boya Directional On Camera Shot Gun Microphone BY-BM3032", "price": "AED 649.00"},
-{"title": "Yamaha Oriental Keyboard PSRA350", "price": "AED 649.00"},
-{"title": "Boya Digital Dual Lavalier Microphone BY-M3D", "price": "AED 649.00"},
-{"title": "Fender Classical Satin Vintage Guitar, ESC105", "price": "AED 649.00"},
-{"title": "Yamaha Electric Guitar Kit , Black , ERG121G", "price": "AED 649.00"},
-{"title": "LG XBOOM ON7 500W One Body Speaker with Super Bass Boost, Karaoke & DJ Function", "price": "AED 1,999.00"},
-{"title": "Sony 7.1.2Ch Sound Bar HTA7000", "price": "AED 1,999.00"},
-{"title": "Sony XV800 X-Series One Box Hifi Wireless Party Speaker, 77 W, Black, SRS-XV800", "price": "AED 1,999.00"},
-{"title": "Sony 5.1CH Home Cinema Soundbar System HT-S700RF", "price": "AED 1,999.00"},
-{"title": "Sony High Power Audio System MHC V02", "price": "AED 1,999.00"},
-{"title": "Sony One Box HiFi MHC-V13", "price": "AED 1,999.00"},
-{"title": "JBL BAR500 5.1-Channel Soundbar with Multibeam™ and Dolby Atmos®", "price": "AED 1,999.00"},
-{"title": "Lenovo, Tab M10 Hd (TB-X306X), 10.1 Inch HD, 2GB RAM, 32GB Memory,Iron Grey", "price": "AED 1,399.00"},
-{"title": "Apple 10.9-inch iPad, Wifi, 64 GB, Blue", "price": "AED 1,399.00"},
-{"title": "Ibrit Max7 ProTablet,Wifi,32GB,3GB RAM, 7inch Display, Black", "price": "AED 1,399.00"},
-{"title": "Samsung Galaxy Tab A8 X205 10.5-inch 64GB,LTE, Gray", "price": "AED 1,399.00"},
-{"title": "Ibrit Tab,Max11 Pro 32GB,3GB,10.1 inch IPS,Red", "price": "AED 1,399.00"},
-{"title": "Apple iPad Air 5 2022 10.9” WiFi 64GB Purple", "price": "AED 1,399.00"},
-{"title": "Exceed Tab EX10SL4 Plus 10 inch-2GB, 32GB,4G-Silver", "price": "AED 1,399.00"},
-{"title": "Sakura Guitar EOG-3814RDS 38 Inches", "price": "AED 649.00"},
-{"title": "Ernie Ball 3 Inch Flat Ribbon Patch Cable, 3 Pack, White, P06384", "price": "AED 649.00"},
-{"title": "Tovaste Wireless Microphone VH3500", "price": "AED 649.00"},
-{"title": "Thomsun Accostic Guitar Bag 11643BA", "price": "AED 649.00"},
-{"title": "Yamaha Wooden Furniture Key board Stand For DGX670 Digital Piano, Black, L300", "price": "AED 649.00"},
-{"title": "Yamaha Portable Digital Grand Pianos, Black, DGX-670", "price": "AED 649.00"},
-{"title": "Al Noor Quran Speaker With Remote, QS-100", "price": "AED 649.00"},
-{"title": "MIPRO ACT-311B/ACT-32T Single-Channel Diversity Receiver with (ACT-32T) Bodypack Transmitter and (MU-53LX) Lapel Mic", "price": "AED 649.00"},
-{"title": "Casio Keyboard CTK-240", "price": "AED 649.00"},
-{"title": "JBL Partybox 310", "price": "AED 1,999.00"},
-{"title": "Sony Home Cinema Bluetooth Soundbar 5.1 Channel HT-S500RF", "price": "AED 1,999.00"},
-{"title": "Sony One Box HiFi MHC-V43D 400 Watts Speciality Speaker with Bluetooth Connectivity", "price": "AED 1,999.00"},
-{"title": "Sony 100W X-Series Bluetooth Wireless Party Speaker, 4-Way, SRSXV900", "price": "AED 1,999.00"},
-{"title": "Sony 2.1Ch Soundbar HT-S400 330W", "price": "AED 1,999.00"},
-{"title": "Sony 5.1ch Home Cinema with Wireless Rear Speakers HT-S40R", "price": "AED 1,999.00"},
-{"title": "JBL 300 W Bar 2.1 Deep Bass MK2 Channel Soundbar with Wireless Subwoofer, Black", "price": "AED 1,999.00"},
-{"title": "JBL 5.1-Channel Soundbar with Wireless Subwoofer JBLBAR51IMBK", "price": "AED 1,999.00"},
-{"title": "Apple 10.9-inch iPad, Wifi, 256 GB, Silver", "price": "AED 1,399.00"},
-{"title": "Apple 10.9-inch iPad, Wi-Fi + Cellular, 256 GB, Pink", "price": "AED 1,399.00"},
-{"title": "Ikon Tablet IK800W", "price": "AED 1,399.00"},
-{"title": "Apple iPad Pro 12.9‑inch,Wi-Fi + Cellular, 512 GB, Silver", "price": "AED 1,399.00"},
-{"title": "Touchmate Tablet-MID1040NB Quad Core,3GB RAM,32GB Memory,10.1\" Screen,Black", "price": "AED 1,399.00"},
-{"title": "Apple iPad Pro 11‑inch, Wifi, 1 TB, Silver", "price": "AED 1,399.00"},
-{"title": "Boya BY-MM1 Cardioid Microphone", "price": "AED 649.00"},
-{"title": "Casio Standard Keyboard CT-X700", "price": "AED 649.00"},
-{"title": "Yamaha ARIUS Digital Piano, Dark Rosewood, YDP-145R", "price": "AED 649.00"},
-{"title": "JBL BAR1000 7.1.4-channel soundbar with detachable surround speakers, MultiBeam™, Dolby Atmos®, and DTS:X", "price": "AED 1,999.00"},
-{"title": "Nikai 5.1 Channel Home Theatre with Bluetooth Speaker, Black, NHT5000BT", "price": "AED 1,999.00"},
-{"title": "Yamaha Sound Bar YAS-109 Black", "price": "AED 1,999.00"},
-{"title": "JBL One Box HiFi Party Box 1000", "price": "AED 1,999.00"},
-{"title": "Apple iPad Pro 12.9‑inch,Wifi, 256 GB, Space Grey", "price": "AED 1,399.00"},
-{"title": "Apple 12.9-inch iPad Pro MHNF3AB/A M1 Chip, Wi-Fi, 128GB - Space Grey", "price": "AED 1,399.00"},
-{"title": "Samsung Galaxy Tab S7 FE T736 12.4inch 64GB 5G Mystic Black", "price": "AED 1,399.00"},
-{"title": "Apple iPad Pro 12.9‑inch,Wifi, 2 TB, Space Grey", "price": "AED 1,399.00"},
-{"title": "Samsung Galaxy Tab-S6 Lite P613N 10.4\" 64GB,WiFi, Blue", "price": "AED 1,399.00"},
-{"title": "Huawei MatePad BAH4-W09 10.4” WiFi 2022 Matte Grey", "price": "AED 1,399.00"},
-{"title": "Ikon 2.1 Multimedia Speaker IK-361", "price": "AED 1,999.00"},
-{"title": "Yamaha Sound Bar YAS-209 Black", "price": "AED 1,999.00"},
-{"title": "LG 2.1 Channel High-Resolution Audio Sound Bar SN5Y", "price": "AED 1,999.00"},
-{"title": "LG 3.1.3 Ch Sound Bar with Dolby Atmos, DTS:X & IMAX Enhanced, 400 W, Black, SC9S", "price": "AED 1,999.00"},
-{"title": "Bose Bass Module 700 Black Wireless, Compact Subwoofer", "price": "AED 1,999.00"},
-{"title": "JBL 2.1 Sound Bar JBLBAR21DBBK", "price": "AED 1,999.00"},
-{"title": "Apple iPad Pro 11‑inch, Wifi, 128 GB, Silver", "price": "AED 1,399.00"},
-{"title": "Exceed Tab EX7W1 Plus 7inch, 2GB, 32GB, Wifi, Black", "price": "AED 1,399.00"},
-{"title": "Apple iPad Air 5 2022 10.9” WiFi 64GB Blue", "price": "AED 1,399.00"},
-{"title": "Apple iPad Pro 12.9‑inch,Wi-Fi + Cellular, 256 GB, Silver", "price": "AED 1,399.00"},
-{"title": "Samsung Galaxy Tab S6 Lite SM -P615N 10.4\" 64GB LTE Angora Blue", "price": "AED 1,399.00"},
-{"title": "Exceed Tab EX7W1 Plus 7inch, 2GB, 32GB, Wifi Grey", "price": "AED 1,399.00"},
-{"title": "Ibrit Kids Tablet K2,Wi-Fi,2GB,16GB 7inch Blue", "price": "AED 1,399.00"},
-{"title": "KIOXIA microSD EXCERIA LMEX1L032GG2 32GB", "price": "AED 14.00"},
-{"title": "Universal Infrared Thermometer FY-01", "price": "AED 135.00"},
-{"title": "Ibrit MAX-15 Tablet -4G+Wi-Fi 4GB,(64GB ROM+64GB MC) 10inch Black", "price": "AED 1,399.00"},
-{"title": "Apple 12.9-inch iPad Pro MHNG3AB/A M1 Chip, Wi Fi, 128GB - Silver", "price": "AED 1,399.00"},
-{"title": "Apple iPad Pro 12.9‑inch,Wifi, 1 TB, Space Grey", "price": "AED 1,399.00"},
-{"title": "Apple 12.9-inch iPad Pro MHR53AB/A M1 Chip Wi-Fi + Cellular (5G) 128GB - Silver", "price": "AED 1,399.00"},
-{"title": "Apple iPad Pro 12.9‑inch,Wifi, 128 GB, Space Grey", "price": "AED 1,399.00"},
-{"title": "Wacom CTL-4100WLK-N Intuos Small Bluetooth Black", "price": "AED 1,399.00"},
-{"title": "Lexar MicroSD Card LMSPLAY 128GB (150mbps)", "price": "AED 14.00"},
-{"title": "Lexar 256GB PLAY UHS-I microSDXC Memory Card (LMSPLAY)", "price": "AED 14.00"},
-{"title": "Sandisk Extreme Solid State Drive SDSSDE60 2TB", "price": "AED 14.00"},
-{"title": "Lexar TypeC Dual USB Flash Drive LJDD35C 64GB", "price": "AED 14.00"},
-{"title": "Lexar PLAY 512GB microSDXC UHS-I-Card, Up To 150MB/s Read, Compatible-with Nintendo-Switch, Portable Gaming Devices, Smartphones and Tablets (LMSPLAY512G)", "price": "AED 14.00"},
-{"title": "Apple TV 4K MQD22AE 32GB Black", "price": "AED 14.00"},
-{"title": "Apple TV 4K 32GB (MXGY2AE)", "price": "AED 14.00"},
-{"title": "Western Digital Elements Portable Hard Disk HDD 1.5 TB (BU6Y0015B)", "price": "AED 14.00"},
-{"title": "Aicare A66 Forehead Thermometer", "price": "AED 135.00"},
-{"title": "OneTouch Verio Reflect Glucose Monitor", "price": "AED 135.00"},
-{"title": "Universal Oxygen Concentrator CP-101 10L", "price": "AED 135.00"},
-{"title": "Universal Oxygen Concentrator JAY-5BW 5L", "price": "AED 135.00"},
-{"title": "Eufy Smart Scale P2, Weighing Range Upto 180 kg, Black, T9148K11", "price": "AED 135.00"},
-{"title": "Apple iPad Air (2022) 10.9-inchch Wi-Fi + Cellular(5G) 64GB Space Gray", "price": "AED 1,399.00"},
-{"title": "Apple iPad Pro 11‑inch, Wifi, 128 GB, Space Grey", "price": "AED 1,399.00"},
-{"title": "Touchmate Tablet MID1065 10\" 32GB Black", "price": "AED 1,399.00"},
-{"title": "Exceed Tab EX7W1 Plus 7inch, 2GB, 32GB, Wifi Blue", "price": "AED 1,399.00"},
-{"title": "SanDisk Extreme PRO microSD SDSQXCD 512GB", "price": "AED 14.00"},
-{"title": "SanDisk Extreme PRO SDXC Card SDXXU 64GB", "price": "AED 14.00"},
-{"title": "SanDisk Ultra UHS I MicroSD Card, 256 GB, 150MB/s, Gray/Red, SDSQUAC-256G-GN6MN", "price": "AED 14.00"},
-{"title": "SanDisk Extreme microSDXC Card SQXAA 128GB", "price": "AED 14.00"},
-{"title": "SanDisk Nintendo Licensed microSDXC UHS-I 256GB (Yellow) 100MB/s [SDSQXAO-256G-GN3ZN]", "price": "AED 14.00"},
-{"title": "Ikon 2in1 Facial&Nasal Steamer IKFS518 Blue", "price": "AED 135.00"},
-{"title": "Ikon 2in1 Facial&Nasal Steamer IKFS518 Pink", "price": "AED 135.00"},
-{"title": "Ikon Facial Steamer IK-1006", "price": "AED 135.00"},
-{"title": "OneTouch Select Plus Strips 50's", "price": "AED 135.00"},
-{"title": "Ikon Digital Bathroom Scale IK-B101", "price": "AED 135.00"},
-{"title": "Ikon Massage Gun IK-WMGP-2", "price": "AED 135.00"},
-{"title": "HP Victus 15-FB0038 Gaming Laptop,AMD Ryzen™ 5 5600H,8GB RAM, 512GB SSD, NVIDIA® GeForce RTX™ 1650, FHD,Black,English/Arabic Keyboard", "price": "AED 3,099.00"},
-{"title": "Lenovo TBX606X FHD Tablet – Wi-Fi,64GB,4GBRAM,10.3inch Iron Grey", "price": "AED 1,399.00"},
-{"title": "ikon Tablet IK-T808-Wi-Fi,4G,2GB,16GB ,8inch,White", "price": "AED 1,399.00"},
-{"title": "Samsung Galaxy Tab S8 Ultra X900 14.6\" 128GB WiFi Graphite", "price": "AED 1,399.00"},
-{"title": "SanDisk Extreme PRO SDXC Card SDXXD 128GB", "price": "AED 14.00"},
-{"title": "SanDisk Extreme PRO microSD SDSQXCD 256GB", "price": "AED 14.00"},
-{"title": "Sandisk Memory Card Extreme MicroSD UHS I 256GB Red/Beige SDSQXAV-256G-GN6MN", "price": "AED 14.00"},
-{"title": "SanDisk Ultra UHS I MicroSD Card, 512 GB, 150MB/s, Gray/Red, SDSQUAC-512G-GN6MN", "price": "AED 14.00"},
-{"title": "SanDisk Ultra UHS I MicroSD Card, 128 GB, 140MB/s, Gray/Red, SDSQUAB-128G-GN6MN", "price": "AED 14.00"},
-{"title": "SanDisk Extreme PRO microSD SDSQXCD 1TB", "price": "AED 14.00"},
-{"title": "OneTouch Verio Test Trips 50's", "price": "AED 135.00"},
-{"title": "Ikon DigitalBathroomScale IKF281", "price": "AED 135.00"},
-{"title": "Ikon Whole Body Muscles Massage Gun IK-WMG01", "price": "AED 135.00"},
-{"title": "Beurer Steam Vaporizer SI-40", "price": "AED 135.00"},
-{"title": "Beurer Facial Sauna Inhaler FS50", "price": "AED 135.00"},
-{"title": "OneTouch Delica Plus Lancet 100s", "price": "AED 135.00"},
-{"title": "Omron Kids Nebuliser NE-C801KD", "price": "AED 135.00"},
-{"title": "Omron Bathroom Scale 180 Kg, HN286", "price": "AED 135.00"},
-{"title": "Apple MacBook Air 13\"(MGN63AB/A), Apple M1 chip with 8-core CPU and 7-core GPU, 256GB - Space Grey", "price": "AED 3,099.00"},
-{"title": "Asus Vivobook 15 Laptop, 15.6 Inches, Intel Core i3-1115G4, 8GB RAM, 256GB SSD, Intel UHD Graphics, Windows 11 Home, Indie Black, A1500EA-EJ3390W", "price": "AED 3,099.00"},
-{"title": "Asus TUF F15 Gaming Laptop, 15.6 Inches, Intel Core i5-11400H, 8GB RAM, 512GB SSD, NVIDIA GeForce RTX 2050, Windows 11 Home, Graphite Black, Backlit Chiclet Keyboard 1-Zone RGB, FX506HF-HN014W", "price": "AED 3,099.00"},
-{"title": "HP Laptop ,Intel Core i5-1235U,8GB RAM, 512GB SSD,FHD 15.6inch,Intel® Iris® Xᵉ Graphics,Windows 11,Natural silver, 15s-fq5041ne, 6H5Q0EA", "price": "AED 3,099.00"},
-{"title": "HP Laptop, Windows 11 Home in S mode, 15.6\", AMD Ryzen™ 3, 4GB RAM, 256GB SSD, FHD, Natural silver, 15s-eq1032ne, 6H6Q8EA", "price": "AED 3,099.00"},
-{"title": "Lenovo Ideapad-3 Gaming Notebook (82K100W0AX),Intel Core i7-11370H,16GB RAM,512 GB SSD,15.6\"FHD,4GB NVIDIA GeForce RTX 3050 GDDR6,Windows 10,Black", "price": "AED 3,099.00"},
-{"title": "SanDisk Portable SSD SDSSDE30-2T00-G25 2TB", "price": "AED 14.00"},
-{"title": "SanDisk Ultra UHS I MicroSD Card, 1 TB, 150MB/s, Gray/Red, SDSQUAC-1T00-GN6MN", "price": "AED 14.00"},
-{"title": "SanDisk Extreme PRO SDXC Card SDXXD-512GB", "price": "AED 14.00"},
-{"title": "SanDisk 2TB Extreme PRO Portable SSD SDSSDE81", "price": "AED 14.00"},
-{"title": "SanDisk 4TB Extreme PRO Portable SSD SDSSDE81", "price": "AED 14.00"},
-{"title": "WD ELEMENTS PORTABLE 5TB BLACK WORLDWIDE", "price": "AED 14.00"},
-{"title": "Omron Digital Scale 180 Kg, Midnight Black, HN-289-EBK", "price": "AED 135.00"},
-{"title": "Braun ForeHead Thermometer NTF3000", "price": "AED 135.00"},
-{"title": "Mabis Flex Thermometer", "price": "AED 135.00"},
-{"title": "Trister 3 In 1 Multi-Chek Monitoring System TS-391MC", "price": "AED 135.00"},
-{"title": "Beurer BM28 BP Monitor With adaptor +GL50 Glucomonitor + GL44/50 Strips 10s", "price": "AED 135.00"},
-{"title": "Beurer Upper Arm Blood Pressure Monitor BM-40", "price": "AED 135.00"},
-{"title": "Omron BP Monitor M1 Basic + Pain Reliever E2", "price": "AED 135.00"},
-{"title": "Omron Blood Pressure Monitor M3 + Omron Thermometer + A/C Adaptor", "price": "AED 135.00"},
-{"title": "Acer Nitro 5 Gaming Laptop (Nitro-5 NHQELEM009) Intel core i7-11800H,16GB RAM,512B SSD,NVIDIA® GeForce RTX™ 3050 4GB,15.6-inch FHD-144Hz,Windows 11,Black", "price": "AED 3,099.00"},
-{"title": "HP Laptop 15s-fq5041ne, Windows 11 Home, 15.6\", Intel® Core™ i3, 4GB RAM, 256GB SSD,HD, Natural silver", "price": "AED 3,099.00"},
-{"title": "HP Laptop 15s-eq3001ne, Windows 11 Home, 15.6\", AMD Ryzen™ 5, 8GB RAM, 512GB SSD, FHD, Natural silver", "price": "AED 3,099.00"},
-{"title": "HP Laptop 15s-eq2021ne, Windows 11 Home, 15.6\", AMD Ryzen™ 7, 16GB RAM, 512GB SSD, FHD, Natural silver", "price": "AED 3,099.00"},
-{"title": "HP Laptop Windows 11 Home, Intel® Core™ i3, 8GB RAM, 256GB SSD, 14\"FHD, Natural silver, 14s-dq2222ne, 6Z2B6EA", "price": "AED 3,099.00"},
-{"title": "HP Laptop 14s-dq5025ne, Windows 11 Home, 14\", Intel® Core™ i5, 8GB RAM, 512GB SSD, FHD, Natural silver", "price": "AED 3,099.00"},
-{"title": "Victus Gaming Laptop 15-fa0060ne, Windows 11 Home, 15.6\", Intel® Core™ i5, 8GB RAM, 512GB SSD, NVIDIA® GeForce RTX™ 3050, FHD, Performance blue + Bundle", "price": "AED 3,099.00"},
-{"title": "SanDisk 4TB Extreme Portable SSD SDSSDE61", "price": "AED 14.00"},
-{"title": "SanDisk 128GB MicroSDXC UHS-I Memory Card for Nintendo Switch - (SDSQXAO-128G--GN3ZN)", "price": "AED 14.00"},
-{"title": "SanDisk Extreme® Pro Portable 1 TB 2.5\" external SSD hard drive USB 3.2 Gen 2 (USB 3.1) Black, Orange SDSSDE81", "price": "AED 14.00"},
-{"title": "WD Black D10 Game Drive 8 TB 3.5\" external hard drive USB 3.2 (Gen 1) Black (WDBA3P0080HBK)", "price": "AED 14.00"},
-{"title": "SanDisk Extreme Portable SSD V2SDSSDE61 2TB", "price": "AED 14.00"},
-{"title": "Western Digital Elements Portable Hard Disk HDD-BU6Y0015B 1.5TB Black", "price": "AED 14.00"},
-{"title": "iHealth Blood Pressure Monitor KN550BT + Activity Monitor AM3", "price": "AED 135.00"},
-{"title": "Citizen Stick Digital Thermometer, White, CTA303", "price": "AED 135.00"},
-{"title": "Ikon Mist Sprayer IK-FS08", "price": "AED 135.00"},
-{"title": "Omron BP Monitor M1 Basic + One Touch Select Plus Glucose Monitor + 50 Strips + Eufy Smart Scale", "price": "AED 135.00"},
-{"title": "Braun Digital Thermometer PRT2000", "price": "AED 135.00"},
-{"title": "Porodo Digital Finger Pulse Oximeter", "price": "AED 135.00"},
-{"title": "Porodo Pulse Oximeter MIX PULSE", "price": "AED 135.00"},
-{"title": "ASUS Vivobook Flip 14 TP1400KA-BZ056WS, Touch Laptop, Celeron, 4GB RAM, 128GB eMMC, 14 inch HD, Windows 11 Home, Blue, With Microsoft 365 Personal 1-year, Stylus included", "price": "AED 3,099.00"},
-{"title": "ASUS X515EA-BQ3040W Slim Laptop, Intel® Core i5-1135G7, 8GB RAM, 512GB SSD,Intel® UHD Graphics, 15.6 inch FHD (1920x1080), Windows 11 Home, Silver ", "price": "AED 3,099.00"},
-{"title": "ASUS X515MA-EJ862WS Slim Laptop, Celeron, 4GB, 128GB SSD, Intel UMA, 15.6 inch FHD (1920x1080), Windows 11 Home, Silver ", "price": "AED 3,099.00"},
-{"title": "Asus Laptop 15.6-Inches FHD, Intel Core i5-1135G7 Processor, 8GB RAM, 512 GB SSD, Windows 11,2GB NVIDIA® GeForce® MX330 Graphics, Black, X1500EP-BQ673W", "price": "AED 3,099.00"},
-{"title": "Asus Laptop 15.6-Inches FHD, Intel Core i3-1115G4 Processor, 4 GB RAM, 256 GB SSD, Windows 11 Home, Intel UHD Shared Graphics, Silver, X515EA-EJ2833W", "price": "AED 3,099.00"},
-{"title": "Asus X515 Laptop, 15.6 Inches, Intel Celeron N4020, 4GB RAM, 128GB SSD, Intel UHD Graphics 600, Windows 11 Home in S Mode, Transparent Silver, X515MA-BR913WS", "price": "AED 3,099.00"},
-{"title": "Western Digital HDD ElementsBU6Y0020BBK 2TB", "price": "AED 14.00"},
-{"title": "Western Digital My Passport 1 TB Portable Hard Drive WDBYVG0010B 1TB Black", "price": "AED 14.00"},
-{"title": "SanDisk Extreme Portable SSD SDSSDE61 1TB", "price": "AED 14.00"},
-{"title": "Apple 4K TV (3rd Generation), 64 GB Storage, MN873AE", "price": "AED 14.00"},
-{"title": "SanDisk Ultra Flair™ USB 3.0 512GB", "price": "AED 14.00"},
-{"title": "Sandisk DualDrive iXpand IX90N 64GB", "price": "AED 14.00"},
-{"title": "Ikon UVC Dicinfection/starilization Lamp", "price": "AED 135.00"},
-{"title": "Beurer GL50 Glucose Strip 50s", "price": "AED 135.00"},
-{"title": "Omron BP Monitor M2 Basic + AC Adaptor For M2 Basic + Omron Digital Thermometer Eco Temp Basic", "price": "AED 135.00"},
-{"title": "Non Touch Infrared Thermometer- GP-300", "price": "AED 135.00"},
-{"title": "Citizen Blood Pressure Monitor CH-453", "price": "AED 135.00"},
-{"title": "ASUS VivoBook 16 X1605PA-MB095W Laptop – 11th Gen Core i5-11300H, 8GB RAM, 1TB SSD, Windows11,16inch WUXGA,English-Arabic Keyboard,Cool Silver", "price": "AED 3,099.00"},
-{"title": "Asus Vivobook Go 15 OLED Laptop, Windows 11 Home, 15.6 inches Full HD, Intel Core i3-N305, 8 GB RAM, 256 GB Storage, Cool Silver, E1504GA-NJ233W", "price": "AED 3,099.00"},
-{"title": "Asus TUF A15 Gaming Laptop, 15.6 Inches, Ryzen 7 R7-7735HS, 16GB RAM, 512GB SSD, NV RTX4060, Windows 11 Home, Mecha Gray, FA507NV-LP023W", "price": "AED 3,099.00"},
-{"title": "Asus TUF F15 Gaming Laptop, 15.6 Inches, Intel Core i5-11400H, 8GB RAM, 512GB SSD, NV RTX3050, Windows 11 Home, Graphite Black, FX506HC-HN111W", "price": "AED 3,099.00"},
-{"title": "Asus X515 Laptop, 15.6 Inches, Intel Core i3-1115G4, 8GB RAM, 256GB SSD, Intel UHD Graphics, Windows 11 Home, Transparent Silver, X515EA-EJ1565W", "price": "AED 3,099.00"},
-{"title": "Asus Vivobook M1603QA-MB731W,AMD Ryzen 7,16GB RAM,1TB SSD,AMD Radeon Vega 7 Shared Graphics,16\" WUXGA,Windows 11,,Arabic/English Keyboard", "price": "AED 3,099.00"},
-{"title": "Acer 15.6 inches Nitro 5 Gaming Notebook, Windows 11 Home, Full HD Display, Intel Core i5 11400H, 8 GB RAM, 512 GB Storage, Black, AN515-57-54D2", "price": "AED 3,099.00"},
-{"title": "SanDisk 128GB iXpand Flash Drive Flip USB 3.1 Gen,GN6NN, Black, SDIX90N 128G GN6NE", "price": "AED 14.00"},
-{"title": "Apple 4K TV (3rd Generation), 128 GB Storage, MN893AE", "price": "AED 14.00"},
-{"title": "Apple MacBook Air 13\" MLY13AB/A Apple M2 chip with 8-core CPU and 8-core GPU,8GB RAM,256GB SSD,Starlight,English/Arabic Keyboard", "price": "AED 3,099.00"},
-{"title": "Dell Inspiron 3520-INS-1013 ,Intel Core i7,8GB RAM,512GB SSD,UHD Graphics,15.6\" FHD,Windows 11,,Arabic/English Keyboard", "price": "AED 3,099.00"},
-{"title": "HP Pavilion Gaming Laptop 15.6\" FHD,15-EC2007NE (4A9E9EA) AMD Ryzen™ 7 processor,16GB RAM,256GB SSD,1TB HDD,NVIDIA® GeForce® GTX 1650,Windows 10,Arabic/English Keyboard,Black", "price": "AED 3,099.00"},
-{"title": "Aspire 5 (A5-NXA80EM004)AMD Ryzen™ 5 5500U,8GRAM,256GB SSD,15.6\" FHD,Windows 11,Silver", "price": "AED 3,099.00"},
-{"title": "Dell Inspiron 14-5420-0405,Core i7,12GB RAM.512GB SSD,2GB Graphics,14.0\"FHD,Windows 11,English/Arabic Keyboard", "price": "AED 3,099.00"},
-{"title": "Acer Aspire 7 (A715-75G-5576),Intel Core i5 -10300H,8GB RAM,512GB SSD, 15.6\"FHD,Windows 11,Black,English-Arabic Keyboard", "price": "AED 3,099.00"},
-{"title": "Dell Notebook 3511-INS-5107,Intel Core i3,15.6\" HD,4GB RAM,1TB HDD,Window 11 Home,Silver", "price": "AED 3,099.00"},
-{"title": "Dell Inspiron 15 (3511-INS-265B-SV) Laptop,Core i7-1165G7,8GB RAM, 512GB SSD,Windows11,15.6inch FHD Display, Intel UHD Graphics, Silver,English-Arabic Keyboard", "price": "AED 3,099.00"},
-{"title": "MacBook Pro 13-inch with Touch Bar and Touch ID (2020) MWP52AB/A Core i5 2GHz, 16GB RAM, 1TB SSD, Intel Iris Plus Graphics,English/Arabic Keyboard,Space Grey", "price": "AED 3,099.00"},
-{"title": "Lenovo IdeaPad 5 -14ALC05 (82LM008RAX),AMD Ryzen 5,8GB RAM,512GB SSD,14\" FHD,Windows 10", "price": "AED 3,099.00"},
-{"title": "Apple MacBook Pro M2 Pro Chip, 14 inches, 16 GB RAM, 512 GB Storage, Space Gray, MPHE3AB/A", "price": "AED 3,099.00"},
-{"title": "Apple MacBook Pro 14\" (MKGR3AB/A) Apple M1 Pro chip with 8‑core CPU and 14‑core GPU,16GB RAM,512GB SSD,mac OS,Arabic English Keyboard -Silver", "price": "AED 3,099.00"},
-{"title": "Acer Aspire 7 (A715-42G-R1UD),AMD Ryzen 5- 5500U,8GB RAM,512GB SSD, 4GB NVIDIA GeForce® GTX 1650,15.6\"FHD,Windows 11,Black,English-Arabic Keyboard", "price": "AED 3,099.00"},
-{"title": "Sony Earphone MDREX15AP", "price": "AED 49.00"},
-{"title": "Sony Headphone MDRZX110AP", "price": "AED 49.00"},
-{"title": "JBL QUANTUM200BLK Wired Over Ear Headphones Black", "price": "AED 49.00"},
-{"title": "JBL In-ear headphones T110 White", "price": "AED 49.00"},
-{"title": "JBL In-ear headphones T110 Black", "price": "AED 49.00"},
-{"title": "JBL In-ear headphones T110 Blue", "price": "AED 49.00"},
-{"title": "Sony Extra Bass Wired on-ear Headphone MDR-XB450AP Blue", "price": "AED 49.00"},
-{"title": "Sony Ear Phone MDR-E9 (Assorted Colors - Per Piece)", "price": "AED 49.00"},
-{"title": "Panasonic Bone conduction Headphone RP-HGS10E Assorted Per Pc", "price": "AED 49.00"},
-{"title": "JBL Wired On-ear Headphones Tune500 JBLT500 Pink", "price": "AED 49.00"},
-{"title": "Sony In-Ear Headphone MDR-EX155AP White", "price": "AED 49.00"},
-{"title": "JBL QUANTUM100WHT Wired Over Ear Headphones White", "price": "AED 49.00"},
-{"title": "JBL Wired Kids HeadPhone JR310 Red", "price": "AED 49.00"},
-{"title": "JBL QUANTUM100 Wired Over Ear Headphones Black", "price": "AED 49.00"},
-{"title": "JBL In-Ear Headphone with One-Button Remote T110 Red", "price": "AED 49.00"},
-{"title": "JBL Wired On-ear Headphones Tune500 JBLT500 White", "price": "AED 49.00"},
-{"title": "Rode Professional Closed-Back Over-Ear Headphones, Black, NTH-100", "price": "AED 49.00"},
-{"title": "Sony In-Ear Headphone MDR-EX155AP Black", "price": "AED 49.00"},
-{"title": "JBL Wired On-ear Headphones Tune500 JBLT500 Black", "price": "AED 49.00"},
-{"title": "JBL Wired Kids HeadPhone JR310 Blue", "price": "AED 49.00"},
-{"title": "VOZ Pro Audio Bluetooth Speaker VBT5 Buit in Power Bank 5200Mah", "price": "AED 299.00"},
-{"title": "VOZ EDGE ROCK BOX Portable Bluetooth Speaker with FM Radio Function (ESP5)", "price": "AED 299.00"},
-{"title": "Trands Wireless Mini Sub-woofer Speaker SP900, Black", "price": "AED 299.00"},
-{"title": "Trands LED Wireless Speaker SP904 Assorted Color", "price": "AED 299.00"},
-{"title": "LG XBOOM Go Portable Bluetooth Speaker with up to 18 hr Battery, Black, XG5QBK", "price": "AED 299.00"},
-{"title": "Trands Sling Wireless Speaker, SP905", "price": "AED 299.00"},
-{"title": "LG XBOOM Go Portable Bluetooth Speaker with up to 24 hr Battery, Black, XG7QBK", "price": "AED 299.00"},
-{"title": "Sony Additional Wireless Surround Speakers, 100 W, Black, SA-RS3S", "price": "AED 299.00"},
-{"title": "JBL Portable Bluetooth Speakers JBL GO 3 Blue", "price": "AED 299.00"},
-{"title": "JBL Portable Bluetooth Speakers JBL GO 3 Red", "price": "AED 299.00"},
-{"title": "JBL Portable Bluetooth Speakers JBL GO 3 Green", "price": "AED 299.00"},
-{"title": "JBL Portable Bluetooth Speakers JBL GO 3 White", "price": "AED 299.00"},
-{"title": "JBL Portable Bluetooth Speakers JBL GO 3 Black", "price": "AED 299.00"},
-{"title": "JBL Portable Bluetooth Speaker Xtreme 3 Blue", "price": "AED 299.00"},
-{"title": "JBL Portable Bluetooth Speaker Xtreme 3 Camouflage", "price": "AED 299.00"},
-{"title": "JBL Bluetooth Speaker Flip-6 Green", "price": "AED 299.00"},
-{"title": "JBL FLIP 6 20 Watts Portable Waterproof Bluetooth Speaker, Pink", "price": "AED 299.00"},
-{"title": "JBL FLIP 6 Portable Waterproof Speaker White", "price": "AED 299.00"},
-{"title": "JBL FLIP 6 Portable Waterproof Speaker Grey", "price": "AED 299.00"},
-{"title": "JBL FLIP 6 20 Watts Portable Waterproof Bluetooth Speaker, Teal", "price": "AED 299.00"},
-{"title": "Sony Portable Wireless Bluetooth Speaker, Black, SRS XE300", "price": "AED 299.00"},
-{"title": "Sony Portable Wireless Bluetooth Speaker, Grey, SRS XE300", "price": "AED 299.00"},
-{"title": "Sony Portable Wireless Bluetooth Speaker, Black, SRS XE200", "price": "AED 299.00"},
-{"title": "Sony Portable Wireless Bluetooth Speaker, Grey, SRS XE200", "price": "AED 299.00"},
-{"title": "Sony Portable Wireless Bluetooth Speaker, Blue, SRS XE200", "price": "AED 299.00"},
-{"title": "Sony XG500 X-Series Portable Wireless Speaker", "price": "AED 299.00"},
-{"title": "Bose SoundLink Flex Bluetooth speaker White Smoke", "price": "AED 299.00"},
-{"title": "Bose SoundLink Micro Bluetooth speaker 783342-0300 Stone Blue", "price": "AED 299.00"},
-{"title": "Marshall Kilburn II Portable Bluetooth Speaker, Black and Brass", "price": "AED 299.00"},
-{"title": "Altec Lansing Orbit Go Bluetooth Speaker IMW356 Red", "price": "AED 299.00"},
-{"title": "Universal Rechargeble Bluetooth Speaker UN-TSB02", "price": "AED 299.00"},
-{"title": "JBL Bluetooth Speaker Clip4 Pink", "price": "AED 299.00"},
-{"title": "JBLPortable Bluetooth Speaker Charge 5 Black", "price": "AED 299.00"},
-{"title": "Energizer HighTech PowerSound Bluetooth Speaker with Built-in Power Bank, HD Sound, 10m Transmission, Handsfree Audio, Built-in FM, Universal Compatibility(Model:BTS-106_BK)", "price": "AED 299.00"},
-{"title": "Sony Bluetooth Home Speaker SRS-RA5000/B", "price": "AED 299.00"},
-{"title": "Universal Portable Bluetooth Speaker UN-TBS99", "price": "AED 299.00"},
-{"title": "JBL BOOMBOX-3 Portable speaker Squad", "price": "AED 299.00"},
-{"title": "Sony SRS-XG300 X-Series Portable Wireless Speaker", "price": "AED 299.00"},
-{"title": "Switch Bluetooth Speaker Football 100F White", "price": "AED 299.00"},
-{"title": "Marshall Stanmore II Black Bluetooth Speaker", "price": "AED 299.00"}
+  {
+    "title": "Ikon Men Shaver IK-7500",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Panasonic Hair Dryer EH-ND21 1200W",
+    "price": "AED 74.00"
+  },
+  {
+    "title": "Sony PS5 Digital Console 825GB CFI-1216B01",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Braun 6in1 Mens Trimmer MGK3220",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Ikon Men Shaver IK-8108",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Ikon Mens Shaver IK-9600",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Ikon Men's Shaver IK-7100",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "PCD Eyebrow Trimmer Assorted",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Moser Nose and Ear Trimmer 4900-0050",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Braun Hair Dryer HD380",
+    "price": "AED 74.00"
+  },
+  {
+    "title": "Panasonic Hair Dryer EH-ND12",
+    "price": "AED 74.00"
+  },
+  {
+    "title": "Braun Hair Dryer HD585",
+    "price": "AED 74.00"
+  },
+  {
+    "title": "Braun Satin Hair Dryer HD130",
+    "price": "AED 74.00"
+  },
+  {
+    "title": "Remington Hair Dryer D3010 2000W",
+    "price": "AED 74.00"
+  },
+  {
+    "title": "Panasonic Hair Dryer EH-NE84",
+    "price": "AED 74.00"
+  },
+  {
+    "title": "Braun Hair Dryer HD580",
+    "price": "AED 74.00"
+  },
+  {
+    "title": "Philips Hair Air Styler HP8663",
+    "price": "AED 74.00"
+  },
+  {
+    "title": "Braun Satin Hair Dryer HD180",
+    "price": "AED 74.00"
+  },
+  {
+    "title": "PlayStation 5 Console (Disc Version) With Controller",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Sony PlayStation PS5 Console - God of War Ragnarok (Bundle)",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Sony PS5 Console + Horizon Voucher",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Microsoft Xbox Series X 1TB Console + Forza Horizon 5 - Premium Edition (Bundle)",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "ATARI Flashback 50th Anniversary Edition - 110 Games",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Xbox Series S,512GB– Fortnite & Rocket League Bundle",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Sony PlayStation 5 Standard/Disc Edition Console with FIFA 23 Voucher",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Sony PS5 Console + Horizon Voucher + Demon Souls",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "ATARI Flashback Gold 50th Anniversary Edition - 130 Games",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Sony Horizon Forbidden West PS5 Digital Edition Console",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Nintendo Switch Extended Battery Life with Neon Blue and Neon Red Joy Con (2019)",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Sony PlayStation 5 Console (CD Version) God of War Ragnarok Bundle",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Xbox Series X 1TB + Forza Horizon 5 + Halo Infinite: Standard Edition + Office M365 Personal",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Ikon Men's Shaver IK-8703",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Ikon Hair Clipper IK-3031",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Ikon Hair Trimmer Combo Set IK-825",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Ikon Mens Grooming Kit IK-T1207",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Jiham Hair Trimmer EJ-21015 Assorted",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips IPL Hair Remover Lumea BRI921/60   ",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Lumea Prestige IPL Cordless Hair Removar BRI955/60",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Xbox Series-S All Digital 512GB console",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Retro Console Blast Legends Flashback,12 Built-in Games",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Xbox Series S 512 GB – Flamingo Console with 3 games(Fortnite + Rocket League + Fallguys )",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Xbox Series-X 1TB",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Activision Flashback Blast!-20 Built-in Games",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Sony PlayStation 4 Console 500GB: Call of Duty Modern Warfare II (Voucher) + DS4 Bundle",
+    "price": "AED 2,299.00"
+  },
+  {
+    "title": "Philips Rechargeable OneBlade Shaver QP2520/33",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Braun Silk-epil 9 Wet & Dry Epilator 9-720",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Panasonic Trimmer ER240",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Hair Clipper HC3525/13",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips 13in1 Multi Trimmer MG7715/13    ",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Moser Rechargeable Professional cord/cordless clipper- for hair & beard 1430-0150",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Showerproof Body Groomer BG3010/13    ",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Wet & dry electric shaver SP9860/13",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Wet & Dry Epilator BRE-720",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Beard trimmer BT3222/13",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips OneBlade Shaver QP2620",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Beard Trimmer BT3208/13     ",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Showerproof Body Groomer BG5020/13    ",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Wet & Dry Shaver S3122/50",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Wet & Dry Epilator BRE700",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips 12-in-1 Multigrooming Set MG9710 (Face, Hair And Body)",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips One Blade Shaver QP6530/2",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Multi Trimmer MG3710/13     ",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Multigroom Face Hair and Body Trimmer MG5730/13",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Hair Clipper HC3100/13     ",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Wet or Dry Shaver S1121/40",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Satinelle Essential Corded Compact Epilator, White, BRE255/00",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Beard Trimmer BT1233/14",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Moser Hair Clipper 1871-0181",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Philips Wet or Dry electric shaver S-1223/40",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "Moser Travel Shaver 3615-0052",
+    "price": "AED 89.00"
+  },
+  {
+    "title": "LG OLED evo TV 65 Inch C2 series, New 2022, Cinema Screen Design 4K Cinema HDR webOS22 with ThinQ AI Pixel Dimming - OLED65C26LA",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "LG UHD 4K Smart TV 65 inch Series 75, HDR10 Pro, New 2022, a5 Gen5 AI Processor 4K, HGiG - 65UQ75006LG",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "LG OLED evo TV 55 Inch C2 series, New 2022, Cinema Screen Design 4K Cinema HDR webOS22 with ThinQ AI Pixel Dimming - OLED55C26LA",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "LG 65 Inches AI ThinQ Real 4K LED TV, QNED7S Series, HDR WebOS, Black, 65QNED7S6QA.AFU",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Samsung Ultra HD TV UA55AU7000UXZN 55inch",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Sony Bravia 55 Inches 4K HDR Smart Google TV, KD-55X75AK",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Sony Bravia 65 Inches 4K HDR LED Smart Google TV, KD-65X75K",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Samsung Ultra HD TV UA65AU7000UXZN 65inch",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Samsung 65 inches 4K Ultra HD Smart LED TV, Black , UA65BU8000UXZN",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Sony BRAVIA XR A90J 4K HDR OLED with Smart Google TV (2021) XR83A90J 83inch",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Ikon LED 4K Smart TV IK-65A71WOS 65inch",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "LG OLED Pose 48 Inch 4K TV Smart TV, All Around-Design, a9 Gen5 AI processor - 48LX1Q6LA",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Ikon 4K UHD Smart LED TV IK-70A71WOS 70 inch",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Nikai UHD Smart LED TV UHD5010SLED 50 inch",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Philips 4K UHD Android Smart LED TV 70PUT7906/56 70 inch",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Sony 85 Inches 4K LED Smart TV, KD85X80L",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "LG NanoCell TV 55 inch NANO79 Series, New 2022, Cinema Screen Design 4K Active HDR webOS22 with ThinQ AI",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "TCL 55 Inches QLED 4K Smart Google TV, 55C635",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "LG OLED TV 65 Inch C1 Series New 2021 Cinema Screen Design 4K Cinema HDR webOS Smart with ThinQ AI Pixel Dimming",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Nikai Smart UHD TV NIK75MEU4STN 75 inch",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Nikai Smart UHD TV NIK55MEU4STN 55 inch",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "TCL 50Inch 4K-Google Smart LED TV 50P637",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Philips 55 Inches 4K Ultra HD Smart LED TV, 55PUT7906/56",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "HP Smart Tank 585 All-in-One Printer (1F3Y4A) Blue",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Pre-Order F1 23 - PS5",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Samsung 75 Inches QN90B Neo QLED 4K Smart TV, Black, QA75QN90BAUXZN",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Hisense 4K Ultra HD Smart LED TV 98U7HQ 98\"",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Samsung Premier LSP7T 4K Smart Laser Projector TV 120 inch",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Samsung 85\" BU8000 Crystal UHD 4K Smart TV",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Philips 75 Inch 4K UHD LED Android 3-sided Ambilight TV, 75PUT8507",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Samsung 65 Inches The Frame Art Mode QLED 4K Smart TV, Black, QA65LS03BAUXZN",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Philips 55 inches 4K UHD Smart OLED TV, 55OLED706",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Canon Selphy Compact Photo Printer CP1500 White",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Canon Selphy Compact Photo Printer CP1500 Black",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Canon Ink Tank Printer PIXMA G3470",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Canon i-Sensys MF-657CDWS Laserjet Multi Function Printer",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Epson A4 EcoTank Wifi Ink Tank Printers, L6490",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Epson A4 AIO Ink Tank Printers, L3260",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Brother Business Inkjet Printer with Full A3 Functionality, White, MFC-J3540DW",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Pre-Order F1 23 - PS4",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Pre-Order Cricket 24 Official Game of the Ashes - PS5",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Pre-Order Cricket 24 Official Game of the Ashes - PS4",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Street Fighter 6 Steel Book Edition PS5",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Street Fighter 6 Lenticular Edition PS5",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Street Fighter 6 PS5",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Street Fighter 6 Lenticular Edition PS4",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Street Fighter 6 Steel Book Edition PS4",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Street Fighter 6 PS4",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Samsung 50 inches Smart QLED TV, Navy blue, UA50BU8000UXZN",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Philips 65 Inches 4K Ultra HD Smart LED TV, 65PUT7406/56",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Samsung QLED TV QA65Q60BAUXZN 65in",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Philips 55 Inches 4K Ultra HD Smart LED TV, 55PUT7406/56",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Ikon 4K Ultra HD Smart Android LED TV IK-E75R5S 75inch",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Sony 4K Android Smart TV KD43X80K 43 Inch",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Samsung 65 Inches OLED 4K Smart TV, Black Titanium, QA65S90CAUXZN",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Epson A4 4 in 1 AIO Ink Tank Printers, L5290",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Epson A4 EcoTank Wifi Ink Tank Printers, L6270",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Epson A4 3 in 1 Ink Tank Printers, L3210",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Epson EcoTank L3251 3-In-1 Printer",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Epson EcoTank L4260 A4 Wi-Fi Duplex All-in-One Ink Tank Printer",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "HP Smart Tank 725 All-in-One Wireless Ink Tank Printer, White/Blue, 28B51A",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Epson L805 A4 Wireless Photo Printer with Wi-Fi - Black",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Take 2 PS4 WWE 2K23",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Take 2 PS5 WWE 2K23",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Playstation PS4 Resident Evil 4 Remake Standard Edition - MCY",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Nintendo Switch Hello Neighbor 2",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Playstation PS5 Star Wars Jedi Survivor - MCY",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Atomic Heart Playstation 5",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Atomic Heart Playstation 4",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Octopath Traveller II for PS5",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Pre-Order Theatrhythm Final Bar Line for PS4",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Octopath Traveller II for PS4",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "LG OLED evo TV 65 Inch G2 series, New 2022, Gallery Design 4K Cinema HDR webOS22 with ThinQ AI Pixel Dimming - OLED65G26LA",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "LG NanoCell TV 65 inch NANO84 Series, New 2022, Cinema Screen Design 4K Active HDR webOS22 with ThinQ AI - 65NANO846QA",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "Ikon 4K UHD Smart LED TV IK-85A71WOS 85 inch",
+    "price": "AED 7,999.00"
+  },
+  {
+    "title": "HP DeskJet Ink Advantage Ultra 4828 All-in-One Wireless Printer, White/Blue, 25R76A",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Canon Ink Jet Printer PIXMA TR4640,Wi-Fi, Print, Copy, Scan, Fax & Cloud",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "HP Smart Tank 720 All-in-One Wireless Ink Tank Printer, White/Grey, 6UU46A",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Brother All-in One Ink Tank Printer MFCT920DW",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Canon SELPHY Square QX10 Compact Photo Printer White",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Canon SELPHY Square QX10 Compact Photo Printer Black",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Brother DCP-T520W All-In-One Ink Tank Refill System Printer",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Pre-Order Octopath Traveller II for Nintendo Switch",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "PS5 Wild Hearts",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Pre-Order Theatrhythm Final Bar Line for Nintendo Switch",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "PS5 Dead Space",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "PS5 One Piece Odyssey",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "PS4 One Piece Odyssey",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Nintendo Switch Crisis Core - Final Fantasy VII",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "NFS Unbound PS5",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Nintendo Switch Just Dance2023",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Brother DCP-T720DW Reliable Multifunction Printer",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "HP Deskjet 2720 Wireless All-in-One Printer (3XV18B), White",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Canon Inkjet Printer Pixma TS-5340",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "HP DeskJet Plus 4120 All-in-One Wireless Printer (3XV14B), White",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "HP Smart Tank 519 All-in-One Wireless Ink Tank Printer (3YW73A), Red/White",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "HP Color LaserJet Pro MFP M283fdw Colour laser multifunction printer",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Canon PIXMA TS-3340 All-in-One Inkjet Printer Black",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Nintendo Switch Dragon Ball: The Breakers Special Edition",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare II PS5",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "PS5 Gotham Knights",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare II PS4",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Fortnite - Anime Legends PS5",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "NBA 2K23 PS5",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles: Cowabunga Collection PS4",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Saints Row Criminal Customs Edition PS5",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "HP Smart Tank 530 All-in-One Wireless Ink Tank Printer (4SB24A),Black",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Epson EcoTank L5190 Copy,Fax,Print,Scan Multi-function Machine, WiFi, Inkjet Printer",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "HP Smart Tank 515 All-in-One Wireless Ink Tank Printer (1TJ09A),Black",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Canon InkTank Printer Pixma G6040",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "HP Deskjet Ink Advantage 3790 Wireless All-in-One Printer, Dark Blue, T8W47C",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Canon Printer G3415 Pixma Black",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Brother Multi-Function Colour Laserjet Printer MFC-L3750CDW",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Brother 3 in 1 Laser Printer DCP-L3510CD",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Saints Row Criminal Customs Edition PS4",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Two Point Campus - Enrolment Edition PS5",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "PS5 Fifa 2023",
+    "price": "AED 279.00"
+  },
+  {
+    "title": "Canon RP-108 High-Capacity Color Ink/Paper Set",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "HP Ink Tank 415 All-in-One Wireless Printer (Z4B53A), Black",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Canon Inkjet Printer PixmaTS-5140(Assorted Colors)",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Casio Keyboard CTS-100 Black",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Bose Smart Soundbar 300 843299-4100",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Yamaha Rainbow Recorder 460-YRS20B Assorted per pc",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Yamaha Keyboard PSR-E373",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Casio Keyboard CTS-200 Red",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Boya Plug In Smartphone Microphones Type C BY-DM100",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Rode Wireless GO II single channel wireless microphone system",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Yamaha Piaggero Digital Keyboard NP-12 Black",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Fender Guitar Electric Stand, Black, 0991819000",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Flight Steel String Acoustic Guitar, 3/4, Black, AC150BK",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Ernie Ball Earthwood Custom Light 80/20 Bronze Acoustic Guitar Strings, 11.5-54 Gauge, P02007",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Samsung HW-B450/ZN 2.1ch Soundbar With Dolby Audio",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Philips Bluetooth party speaker TAX3206",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Samsung 3.1Ch Soundbar HW-B650/ZN",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Samsung 2.1Ch Soundbar HW-B550/ZN",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Sony OneBox Hifi SRSXP700  X-Series Portable Wireless Speaker",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "LG SNC4R 420W 4.1 Channel Soundbar with Bluetooth Streaming and Surround Sound Speakers",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Philips 2.0 Soundbar speaker TAB5105/98",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Ikon Live Recording Condenser Microphone Set IKWCM88",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Yamaha Electric Guitar, Black, PA012BLK",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Ernie Ball Jacquard Strap, Midnight Paisley, P04696",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Ahuja Headband Microphone HBM60CC",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Ernie Ball Axis Capo, Pewter, P09608",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Fender Electric Guitar Strings, 0730155403",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Ikon Wireless Mic-IKGM-308",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "JBL Wireless Microphone Set (2 Pcs), Black",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Boya Digital Handheld Microphone BY-HM2",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Sony 400W 5.1ch Home Cinema Soundbar System , HT-S20R",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "LG 3.1.2 ch Sound Bar with Dolby Atmos, 380 W, Black, S75Q",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "LG 5.1 ch Sound bar with DTS Virtual:X, 800 W, Black, SH7Q",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "JBL CINEMA SB170 2.1 Channel soundbar with wireless subwoofer",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "LG 5.1.3 ch Sound Bar with Dolby Atmos, 620 W, Black, S80QR",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "LG 9.1.5 ch Sound Bar with Dolby Atmos and Surround Speakers, 810 W, Black, S95QR",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "LG 5.1.2 ch Sound Bar with Dolby Atmos and Surround Speakers, 520 W, Black, S75QR",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Apple iPad 2021 (9th Generation) 10.2-inch, Wi-Fi, 64GB - Grey",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Yamaha Piaggero Digital Keyboard NP-12 White",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Casio Keyboard CTS-300 61 Keys",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Yamaha Digital Piano P125 White",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Ernie Ball 10 Inch Braided Straight/Angle Instrument Cable, Neon Orange, P06079",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Boya Directional On Camera Shot Gun Microphone BY-BM3032",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Yamaha Oriental Keyboard PSRA350",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Boya Digital Dual Lavalier Microphone BY-M3D",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Fender Classical Satin Vintage Guitar, ESC105",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Yamaha Electric Guitar Kit , Black , ERG121G",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "LG XBOOM ON7 500W One Body Speaker with Super Bass Boost, Karaoke & DJ Function",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Sony 7.1.2Ch Sound Bar HTA7000",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Sony XV800 X-Series One Box Hifi Wireless Party Speaker, 77 W, Black, SRS-XV800",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Sony 5.1CH Home Cinema Soundbar System HT-S700RF",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Sony High Power Audio System MHC V02",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Sony One Box HiFi MHC-V13",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "JBL BAR500 5.1-Channel Soundbar with Multibeam™ and Dolby Atmos®",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Lenovo, Tab M10 Hd (TB-X306X), 10.1 Inch HD, 2GB RAM, 32GB Memory,Iron Grey",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Apple 10.9-inch iPad, Wifi, 64 GB, Blue",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Ibrit Max7 ProTablet,Wifi,32GB,3GB RAM, 7inch Display, Black",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Samsung Galaxy Tab A8 X205 10.5-inch 64GB,LTE, Gray",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Ibrit Tab,Max11 Pro 32GB,3GB,10.1 inch IPS,Red",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Apple iPad Air 5 2022 10.9” WiFi 64GB Purple",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Exceed Tab EX10SL4 Plus 10 inch-2GB, 32GB,4G-Silver",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Sakura Guitar EOG-3814RDS 38 Inches",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Ernie Ball 3 Inch Flat Ribbon Patch Cable, 3 Pack, White, P06384",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Tovaste Wireless Microphone VH3500",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Thomsun Accostic Guitar Bag 11643BA",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Yamaha Wooden Furniture Key board Stand For DGX670 Digital Piano, Black, L300",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Yamaha Portable Digital Grand Pianos, Black, DGX-670",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Al Noor Quran Speaker With Remote, QS-100",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "MIPRO ACT-311B/ACT-32T Single-Channel Diversity Receiver with (ACT-32T) Bodypack Transmitter and (MU-53LX) Lapel Mic",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Casio Keyboard CTK-240",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "JBL Partybox 310",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Sony Home Cinema Bluetooth Soundbar 5.1 Channel HT-S500RF",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Sony One Box HiFi MHC-V43D 400 Watts Speciality Speaker with Bluetooth Connectivity",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Sony 100W X-Series Bluetooth Wireless Party Speaker, 4-Way, SRSXV900",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Sony 2.1Ch Soundbar HT-S400 330W",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Sony 5.1ch Home Cinema with Wireless Rear Speakers HT-S40R",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "JBL 300 W Bar 2.1 Deep Bass MK2 Channel Soundbar with Wireless Subwoofer, Black",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "JBL 5.1-Channel Soundbar with Wireless Subwoofer JBLBAR51IMBK",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Apple 10.9-inch iPad, Wifi, 256 GB, Silver",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Apple 10.9-inch iPad, Wi-Fi + Cellular, 256 GB, Pink",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Ikon Tablet IK800W",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Apple iPad Pro 12.9‑inch,Wi-Fi + Cellular, 512 GB, Silver",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Touchmate Tablet-MID1040NB Quad Core,3GB RAM,32GB Memory,10.1\" Screen,Black",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Apple iPad Pro 11‑inch, Wifi, 1 TB, Silver",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Boya BY-MM1 Cardioid Microphone",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Casio Standard Keyboard CT-X700",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "Yamaha ARIUS Digital Piano, Dark Rosewood, YDP-145R",
+    "price": "AED 649.00"
+  },
+  {
+    "title": "JBL BAR1000 7.1.4-channel soundbar with detachable surround speakers, MultiBeam™, Dolby Atmos®, and DTS:X",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Nikai 5.1 Channel Home Theatre with Bluetooth Speaker, Black, NHT5000BT",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Yamaha Sound Bar YAS-109 Black",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "JBL One Box HiFi Party Box 1000",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Apple iPad Pro 12.9‑inch,Wifi, 256 GB, Space Grey",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Apple 12.9-inch iPad Pro MHNF3AB/A M1 Chip, Wi-Fi, 128GB - Space Grey",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Samsung Galaxy Tab S7 FE T736 12.4inch 64GB 5G Mystic Black",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Apple iPad Pro 12.9‑inch,Wifi, 2 TB, Space Grey",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Samsung Galaxy Tab-S6 Lite P613N 10.4\" 64GB,WiFi, Blue",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Huawei MatePad BAH4-W09 10.4” WiFi 2022 Matte Grey",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Ikon 2.1 Multimedia Speaker IK-361",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Yamaha Sound Bar YAS-209 Black",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "LG 2.1 Channel High-Resolution Audio Sound Bar SN5Y",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "LG 3.1.3 Ch Sound Bar with Dolby Atmos, DTS:X & IMAX Enhanced, 400 W, Black, SC9S",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Bose Bass Module 700 Black Wireless, Compact Subwoofer",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "JBL 2.1 Sound Bar JBLBAR21DBBK",
+    "price": "AED 1,999.00"
+  },
+  {
+    "title": "Apple iPad Pro 11‑inch, Wifi, 128 GB, Silver",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Exceed Tab EX7W1 Plus 7inch, 2GB, 32GB, Wifi, Black",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Apple iPad Air 5 2022 10.9” WiFi 64GB Blue",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Apple iPad Pro 12.9‑inch,Wi-Fi + Cellular, 256 GB, Silver",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Samsung Galaxy Tab S6 Lite SM -P615N 10.4\" 64GB LTE Angora Blue",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Exceed Tab EX7W1 Plus 7inch, 2GB, 32GB, Wifi Grey",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Ibrit Kids Tablet K2,Wi-Fi,2GB,16GB 7inch Blue",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "KIOXIA microSD EXCERIA LMEX1L032GG2 32GB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Universal Infrared Thermometer FY-01",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Ibrit MAX-15 Tablet -4G+Wi-Fi 4GB,(64GB ROM+64GB MC) 10inch Black",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Apple 12.9-inch iPad Pro MHNG3AB/A M1 Chip, Wi Fi, 128GB - Silver",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Apple iPad Pro 12.9‑inch,Wifi, 1 TB, Space Grey",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Apple 12.9-inch iPad Pro MHR53AB/A M1 Chip Wi-Fi + Cellular (5G) 128GB - Silver",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Apple iPad Pro 12.9‑inch,Wifi, 128 GB, Space Grey",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Wacom CTL-4100WLK-N Intuos Small Bluetooth Black",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Lexar MicroSD Card LMSPLAY 128GB (150mbps)",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Lexar 256GB PLAY UHS-I microSDXC Memory Card (LMSPLAY)",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Sandisk Extreme Solid State Drive SDSSDE60 2TB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Lexar TypeC Dual USB Flash Drive LJDD35C 64GB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Lexar PLAY 512GB microSDXC UHS-I-Card, Up To 150MB/s Read, Compatible-with Nintendo-Switch, Portable Gaming Devices, Smartphones and Tablets (LMSPLAY512G)",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Apple TV 4K MQD22AE 32GB Black",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Apple TV 4K 32GB (MXGY2AE)",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Western Digital Elements Portable Hard Disk HDD 1.5 TB (BU6Y0015B)",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Aicare A66 Forehead Thermometer",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "OneTouch Verio Reflect Glucose Monitor",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Universal Oxygen Concentrator CP-101 10L",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Universal Oxygen Concentrator JAY-5BW 5L",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Eufy Smart Scale P2, Weighing Range Upto 180 kg, Black, T9148K11",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Apple iPad Air (2022) 10.9-inchch Wi-Fi + Cellular(5G) 64GB Space Gray",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Apple iPad Pro 11‑inch, Wifi, 128 GB, Space Grey",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Touchmate Tablet MID1065 10\" 32GB Black",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Exceed Tab EX7W1 Plus 7inch, 2GB, 32GB, Wifi Blue",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "SanDisk Extreme PRO microSD SDSQXCD 512GB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk Extreme PRO SDXC Card SDXXU 64GB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk Ultra UHS I MicroSD Card, 256 GB, 150MB/s, Gray/Red, SDSQUAC-256G-GN6MN",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk Extreme microSDXC Card SQXAA 128GB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk Nintendo Licensed microSDXC UHS-I 256GB (Yellow) 100MB/s [SDSQXAO-256G-GN3ZN]",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Ikon 2in1 Facial&Nasal Steamer IKFS518 Blue",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Ikon 2in1 Facial&Nasal Steamer IKFS518 Pink",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Ikon Facial Steamer IK-1006",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "OneTouch Select Plus Strips 50's",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Ikon Digital Bathroom Scale IK-B101",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Ikon Massage Gun IK-WMGP-2",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "HP Victus 15-FB0038 Gaming Laptop,AMD Ryzen™ 5 5600H,8GB RAM, 512GB SSD, NVIDIA® GeForce RTX™ 1650, FHD,Black,English/Arabic Keyboard",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Lenovo TBX606X FHD Tablet – Wi-Fi,64GB,4GBRAM,10.3inch Iron Grey",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "ikon Tablet IK-T808-Wi-Fi,4G,2GB,16GB ,8inch,White",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "Samsung Galaxy Tab S8 Ultra X900 14.6\" 128GB WiFi Graphite",
+    "price": "AED 1,399.00"
+  },
+  {
+    "title": "SanDisk Extreme PRO SDXC Card SDXXD 128GB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk Extreme PRO microSD SDSQXCD 256GB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Sandisk Memory Card Extreme MicroSD UHS I 256GB Red/Beige SDSQXAV-256G-GN6MN",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk Ultra UHS I MicroSD Card, 512 GB, 150MB/s, Gray/Red, SDSQUAC-512G-GN6MN",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk Ultra UHS I MicroSD Card, 128 GB, 140MB/s, Gray/Red, SDSQUAB-128G-GN6MN",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk Extreme PRO microSD SDSQXCD 1TB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "OneTouch Verio Test Trips 50's",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Ikon DigitalBathroomScale IKF281",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Ikon Whole Body Muscles Massage Gun IK-WMG01",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Beurer Steam Vaporizer SI-40",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Beurer Facial Sauna Inhaler FS50",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "OneTouch Delica Plus Lancet 100s",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Omron Kids Nebuliser NE-C801KD",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Omron Bathroom Scale 180 Kg, HN286",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Apple MacBook Air 13\"(MGN63AB/A), Apple M1 chip with 8-core CPU and 7-core GPU, 256GB - Space Grey",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Asus Vivobook 15 Laptop, 15.6 Inches, Intel Core i3-1115G4, 8GB RAM, 256GB SSD, Intel UHD Graphics, Windows 11 Home, Indie Black, A1500EA-EJ3390W",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Asus TUF F15 Gaming Laptop, 15.6 Inches, Intel Core i5-11400H, 8GB RAM, 512GB SSD, NVIDIA GeForce RTX 2050, Windows 11 Home, Graphite Black, Backlit Chiclet Keyboard 1-Zone RGB, FX506HF-HN014W",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "HP Laptop ,Intel Core i5-1235U,8GB RAM, 512GB SSD,FHD 15.6inch,Intel® Iris® Xᵉ Graphics,Windows 11,Natural silver, 15s-fq5041ne, 6H5Q0EA",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "HP Laptop, Windows 11 Home in S mode, 15.6\", AMD Ryzen™ 3, 4GB RAM, 256GB SSD, FHD, Natural silver, 15s-eq1032ne, 6H6Q8EA",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Lenovo Ideapad-3 Gaming Notebook (82K100W0AX),Intel Core i7-11370H,16GB RAM,512 GB SSD,15.6\"FHD,4GB NVIDIA GeForce RTX 3050 GDDR6,Windows 10,Black",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "SanDisk Portable SSD SDSSDE30-2T00-G25 2TB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk Ultra UHS I MicroSD Card, 1 TB, 150MB/s, Gray/Red, SDSQUAC-1T00-GN6MN",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk Extreme PRO SDXC Card SDXXD-512GB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk 2TB Extreme PRO Portable SSD SDSSDE81",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk 4TB Extreme PRO Portable SSD SDSSDE81",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "WD ELEMENTS PORTABLE 5TB BLACK WORLDWIDE",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Omron Digital Scale 180 Kg, Midnight Black, HN-289-EBK",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Braun ForeHead Thermometer NTF3000",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Mabis Flex Thermometer",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Trister 3 In 1 Multi-Chek Monitoring System TS-391MC",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Beurer BM28 BP Monitor With adaptor +GL50 Glucomonitor + GL44/50 Strips 10s",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Beurer Upper Arm Blood Pressure Monitor BM-40",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Omron BP Monitor M1 Basic + Pain Reliever E2",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Omron Blood Pressure Monitor M3 + Omron Thermometer + A/C Adaptor",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Acer Nitro 5 Gaming Laptop (Nitro-5 NHQELEM009) Intel core i7-11800H,16GB RAM,512B SSD,NVIDIA® GeForce RTX™ 3050 4GB,15.6-inch FHD-144Hz,Windows 11,Black",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "HP Laptop 15s-fq5041ne, Windows 11 Home, 15.6\", Intel® Core™ i3, 4GB RAM, 256GB SSD,HD, Natural silver",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "HP Laptop 15s-eq3001ne, Windows 11 Home, 15.6\", AMD Ryzen™ 5, 8GB RAM, 512GB SSD, FHD, Natural silver",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "HP Laptop 15s-eq2021ne, Windows 11 Home, 15.6\", AMD Ryzen™ 7, 16GB RAM, 512GB SSD, FHD, Natural silver",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "HP Laptop Windows 11 Home, Intel® Core™ i3, 8GB RAM, 256GB SSD, 14\"FHD, Natural silver, 14s-dq2222ne, 6Z2B6EA",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "HP Laptop 14s-dq5025ne, Windows 11 Home, 14\", Intel® Core™ i5, 8GB RAM, 512GB SSD, FHD, Natural silver",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Victus Gaming Laptop 15-fa0060ne, Windows 11 Home, 15.6\", Intel® Core™ i5, 8GB RAM, 512GB SSD, NVIDIA® GeForce RTX™ 3050, FHD, Performance blue + Bundle",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "SanDisk 4TB Extreme Portable SSD SDSSDE61",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk 128GB MicroSDXC UHS-I Memory Card for Nintendo Switch - (SDSQXAO-128G--GN3ZN)",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk Extreme® Pro Portable 1 TB 2.5\" external SSD hard drive USB 3.2 Gen 2 (USB 3.1) Black, Orange SDSSDE81",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "WD Black D10 Game Drive 8 TB 3.5\" external hard drive USB 3.2 (Gen 1) Black (WDBA3P0080HBK)",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk Extreme Portable SSD V2SDSSDE61 2TB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Western Digital Elements Portable Hard Disk HDD-BU6Y0015B 1.5TB Black",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "iHealth Blood Pressure Monitor KN550BT + Activity Monitor AM3",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Citizen Stick Digital Thermometer, White, CTA303",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Ikon Mist Sprayer IK-FS08",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Omron BP Monitor M1 Basic + One Touch Select Plus Glucose Monitor + 50 Strips + Eufy Smart Scale",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Braun Digital Thermometer PRT2000",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Porodo Digital Finger Pulse Oximeter",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Porodo Pulse Oximeter MIX PULSE",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "ASUS Vivobook Flip 14 TP1400KA-BZ056WS, Touch Laptop, Celeron, 4GB RAM, 128GB eMMC, 14 inch HD, Windows 11 Home, Blue, With Microsoft 365 Personal 1-year, Stylus included",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "ASUS X515EA-BQ3040W Slim Laptop, Intel® Core i5-1135G7, 8GB RAM, 512GB SSD,Intel® UHD Graphics, 15.6 inch FHD (1920x1080), Windows 11 Home, Silver ",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "ASUS X515MA-EJ862WS Slim Laptop, Celeron, 4GB, 128GB SSD, Intel UMA, 15.6 inch FHD (1920x1080), Windows 11 Home, Silver ",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Asus Laptop 15.6-Inches FHD, Intel Core i5-1135G7 Processor, 8GB RAM, 512 GB SSD, Windows 11,2GB NVIDIA® GeForce® MX330 Graphics, Black, X1500EP-BQ673W",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Asus Laptop 15.6-Inches FHD, Intel Core i3-1115G4 Processor, 4 GB RAM, 256 GB SSD, Windows 11 Home, Intel UHD Shared Graphics, Silver, X515EA-EJ2833W",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Asus X515 Laptop, 15.6 Inches, Intel Celeron N4020, 4GB RAM, 128GB SSD, Intel UHD Graphics 600, Windows 11 Home in S Mode, Transparent Silver, X515MA-BR913WS",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Western Digital HDD ElementsBU6Y0020BBK 2TB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Western Digital My Passport 1 TB Portable Hard Drive WDBYVG0010B 1TB Black",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk Extreme Portable SSD SDSSDE61 1TB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Apple 4K TV (3rd Generation), 64 GB Storage, MN873AE",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "SanDisk Ultra Flair™ USB 3.0 512GB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Sandisk DualDrive iXpand IX90N 64GB",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Ikon UVC Dicinfection/starilization Lamp",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Beurer GL50 Glucose Strip 50s",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Omron BP Monitor M2 Basic + AC Adaptor For M2 Basic + Omron Digital Thermometer Eco Temp Basic",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Non Touch Infrared Thermometer- GP-300",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "Citizen Blood Pressure Monitor CH-453",
+    "price": "AED 135.00"
+  },
+  {
+    "title": "ASUS VivoBook 16 X1605PA-MB095W Laptop – 11th Gen Core i5-11300H, 8GB RAM, 1TB SSD, Windows11,16inch WUXGA,English-Arabic Keyboard,Cool Silver",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Asus Vivobook Go 15 OLED Laptop, Windows 11 Home, 15.6 inches Full HD, Intel Core i3-N305, 8 GB RAM, 256 GB Storage, Cool Silver, E1504GA-NJ233W",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Asus TUF A15 Gaming Laptop, 15.6 Inches, Ryzen 7 R7-7735HS, 16GB RAM, 512GB SSD, NV RTX4060, Windows 11 Home, Mecha Gray, FA507NV-LP023W",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Asus TUF F15 Gaming Laptop, 15.6 Inches, Intel Core i5-11400H, 8GB RAM, 512GB SSD, NV RTX3050, Windows 11 Home, Graphite Black, FX506HC-HN111W",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Asus X515 Laptop, 15.6 Inches, Intel Core i3-1115G4, 8GB RAM, 256GB SSD, Intel UHD Graphics, Windows 11 Home, Transparent Silver, X515EA-EJ1565W",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Asus Vivobook M1603QA-MB731W,AMD Ryzen 7,16GB RAM,1TB SSD,AMD Radeon Vega 7 Shared Graphics,16\" WUXGA,Windows 11,,Arabic/English Keyboard",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Acer 15.6 inches Nitro 5 Gaming Notebook, Windows 11 Home, Full HD Display, Intel Core i5 11400H, 8 GB RAM, 512 GB Storage, Black, AN515-57-54D2",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "SanDisk 128GB iXpand Flash Drive Flip USB 3.1 Gen,GN6NN, Black, SDIX90N 128G GN6NE",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Apple 4K TV (3rd Generation), 128 GB Storage, MN893AE",
+    "price": "AED 14.00"
+  },
+  {
+    "title": "Apple MacBook Air 13\" MLY13AB/A Apple M2 chip with 8-core CPU and 8-core GPU,8GB RAM,256GB SSD,Starlight,English/Arabic Keyboard",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Dell Inspiron 3520-INS-1013 ,Intel Core i7,8GB RAM,512GB SSD,UHD Graphics,15.6\" FHD,Windows 11,,Arabic/English Keyboard",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "HP Pavilion Gaming Laptop 15.6\" FHD,15-EC2007NE (4A9E9EA) AMD Ryzen™ 7 processor,16GB RAM,256GB SSD,1TB HDD,NVIDIA® GeForce® GTX 1650,Windows 10,Arabic/English Keyboard,Black",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Aspire 5 (A5-NXA80EM004)AMD Ryzen™ 5 5500U,8GRAM,256GB SSD,15.6\" FHD,Windows 11,Silver",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Dell Inspiron 14-5420-0405,Core i7,12GB RAM.512GB SSD,2GB Graphics,14.0\"FHD,Windows 11,English/Arabic Keyboard",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Acer Aspire 7 (A715-75G-5576),Intel Core i5 -10300H,8GB RAM,512GB SSD, 15.6\"FHD,Windows 11,Black,English-Arabic Keyboard",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Dell Notebook 3511-INS-5107,Intel Core i3,15.6\" HD,4GB RAM,1TB HDD,Window 11 Home,Silver",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Dell Inspiron 15 (3511-INS-265B-SV) Laptop,Core i7-1165G7,8GB RAM, 512GB SSD,Windows11,15.6inch FHD Display, Intel UHD Graphics, Silver,English-Arabic Keyboard",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "MacBook Pro 13-inch with Touch Bar and Touch ID (2020) MWP52AB/A Core i5 2GHz, 16GB RAM, 1TB SSD, Intel Iris Plus Graphics,English/Arabic Keyboard,Space Grey",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Lenovo IdeaPad 5 -14ALC05 (82LM008RAX),AMD Ryzen 5,8GB RAM,512GB SSD,14\" FHD,Windows 10",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Apple MacBook Pro M2 Pro Chip, 14 inches, 16 GB RAM, 512 GB Storage, Space Gray, MPHE3AB/A",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Apple MacBook Pro 14\" (MKGR3AB/A) Apple M1 Pro chip with 8‑core CPU and 14‑core GPU,16GB RAM,512GB SSD,mac OS,Arabic English Keyboard -Silver",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Acer Aspire 7 (A715-42G-R1UD),AMD Ryzen 5- 5500U,8GB RAM,512GB SSD, 4GB NVIDIA GeForce® GTX 1650,15.6\"FHD,Windows 11,Black,English-Arabic Keyboard",
+    "price": "AED 3,099.00"
+  },
+  {
+    "title": "Sony Earphone MDREX15AP",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "Sony Headphone MDRZX110AP",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "JBL QUANTUM200BLK Wired Over Ear Headphones Black",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "JBL In-ear headphones T110 White",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "JBL In-ear headphones T110 Black",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "JBL In-ear headphones T110 Blue",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "Sony Extra Bass Wired on-ear Headphone MDR-XB450AP Blue",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "Sony Ear Phone MDR-E9 (Assorted Colors - Per Piece)",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "Panasonic Bone conduction Headphone RP-HGS10E Assorted Per Pc",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "JBL Wired On-ear Headphones Tune500 JBLT500 Pink",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "Sony In-Ear Headphone MDR-EX155AP White",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "JBL QUANTUM100WHT Wired Over Ear Headphones White",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "JBL Wired Kids HeadPhone JR310 Red",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "JBL QUANTUM100 Wired Over Ear Headphones Black",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "JBL In-Ear Headphone with One-Button Remote T110 Red",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "JBL Wired On-ear Headphones Tune500 JBLT500 White",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "Rode Professional Closed-Back Over-Ear Headphones, Black, NTH-100",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "Sony In-Ear Headphone MDR-EX155AP Black",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "JBL Wired On-ear Headphones Tune500 JBLT500 Black",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "JBL Wired Kids HeadPhone JR310 Blue",
+    "price": "AED 49.00"
+  },
+  {
+    "title": "VOZ Pro Audio Bluetooth Speaker VBT5 Buit in Power Bank 5200Mah",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "VOZ EDGE ROCK BOX Portable Bluetooth Speaker with FM Radio Function (ESP5)",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Trands Wireless Mini Sub-woofer Speaker SP900, Black",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Trands LED Wireless Speaker SP904 Assorted Color",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "LG XBOOM Go Portable Bluetooth Speaker with up to 18 hr Battery, Black, XG5QBK",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Trands Sling Wireless Speaker, SP905",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "LG XBOOM Go Portable Bluetooth Speaker with up to 24 hr Battery, Black, XG7QBK",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Sony Additional Wireless Surround Speakers, 100 W, Black, SA-RS3S",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBL Portable Bluetooth Speakers JBL GO 3 Blue",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBL Portable Bluetooth Speakers JBL GO 3 Red",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBL Portable Bluetooth Speakers JBL GO 3 Green",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBL Portable Bluetooth Speakers JBL GO 3 White",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBL Portable Bluetooth Speakers JBL GO 3 Black",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBL Portable Bluetooth Speaker Xtreme 3 Blue",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBL Portable Bluetooth Speaker Xtreme 3 Camouflage",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBL Bluetooth Speaker Flip-6 Green",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBL FLIP 6 20 Watts Portable Waterproof Bluetooth Speaker, Pink",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBL FLIP 6 Portable Waterproof Speaker White",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBL FLIP 6 Portable Waterproof Speaker Grey",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBL FLIP 6 20 Watts Portable Waterproof Bluetooth Speaker, Teal",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Sony Portable Wireless Bluetooth Speaker, Black, SRS XE300",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Sony Portable Wireless Bluetooth Speaker, Grey, SRS XE300",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Sony Portable Wireless Bluetooth Speaker, Black, SRS XE200",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Sony Portable Wireless Bluetooth Speaker, Grey, SRS XE200",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Sony Portable Wireless Bluetooth Speaker, Blue, SRS XE200",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Sony XG500 X-Series Portable Wireless Speaker",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Bose SoundLink Flex Bluetooth speaker White Smoke",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Bose SoundLink Micro Bluetooth speaker 783342-0300 Stone Blue",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Marshall Kilburn II Portable Bluetooth Speaker, Black and Brass",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Altec Lansing Orbit Go Bluetooth Speaker IMW356 Red",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Universal Rechargeble Bluetooth Speaker UN-TSB02",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBL Bluetooth Speaker Clip4 Pink",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBLPortable Bluetooth Speaker Charge 5 Black",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Energizer HighTech PowerSound Bluetooth Speaker with Built-in Power Bank, HD Sound, 10m Transmission, Handsfree Audio, Built-in FM, Universal Compatibility(Model:BTS-106_BK)",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Sony Bluetooth Home Speaker SRS-RA5000/B",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Universal Portable Bluetooth Speaker UN-TBS99",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "JBL BOOMBOX-3 Portable speaker Squad",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Sony SRS-XG300 X-Series Portable Wireless Speaker",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Switch Bluetooth Speaker Football 100F White",
+    "price": "AED 299.00"
+  },
+  {
+    "title": "Marshall Stanmore II Black Bluetooth Speaker",
+    "price": "AED 299.00"
+  }
 ]

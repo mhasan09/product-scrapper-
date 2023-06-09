@@ -1,20 +1,74 @@
 [
-{"subcategory": "Televisions", "url": "https://www.luluhypermarket.com/c/HY00214796"},
-{"subcategory": "Bluetooth speakers", "url": "https://www.luluhypermarket.com/c/HY00214806"},
-{"subcategory": "Headphones", "url": "https://www.luluhypermarket.com/c/HY00214810"},
-{"subcategory": "Action cameras", "url": "https://www.luluhypermarket.com/c/HY00214816"},
-{"subcategory": "Laptops", "url": "https://www.luluhypermarket.com/c/HY00214756"},
-{"subcategory": "Tablets", "url": "https://www.luluhypermarket.com/c/HY00214746"},
-{"subcategory": "Soundbars & home theatres", "url": "https://www.luluhypermarket.com/c/HY00214800"},
-{"subcategory": "Musical instruments", "url": "https://www.luluhypermarket.com/c/HY00214802"},
-{"subcategory": "Medical equipments", "url": "https://www.luluhypermarket.com/c/HY00214828"},
-{"subcategory": "Electric toothbrush", "url": "https://www.luluhypermarket.com/c/HY00217370"},
-{"subcategory": "Beard trimmers", "url": "https://www.luluhypermarket.com/c/HY00214824"},
-{"subcategory": "Hair dryer", "url": "https://www.luluhypermarket.com/c/HY00217369?q=%3Adiscount-desc%3Afeature-ProductType%3AHair%2BDryer&text=#"},
-{"subcategory": "WiFi routers", "url": "https://www.luluhypermarket.com/c/HY93000007"},
-{"subcategory": "Consoles", "url": "https://www.luluhypermarket.com/c/HY00214768"},
-{"subcategory": "Digital cards", "url": "https://www.luluhypermarket.com/c/HY00214733"},
-{"subcategory": "Titles", "url": "https://www.luluhypermarket.com/c/HY00214764"},
-{"subcategory": "Printers", "url": "https://www.luluhypermarket.com/c/HY00214782?sort=newest-desc&q=%3Adiscount-desc"},
-{"subcategory": "Storages ", "url": "https://www.luluhypermarket.com/c/HY00214788?sort=discount-desc&q=%3Arelevance"}
+  {
+    "subcategory": "Televisions",
+    "url": "https://www.luluhypermarket.com/c/HY00214796"
+  },
+  {
+    "subcategory": "Bluetooth speakers",
+    "url": "https://www.luluhypermarket.com/c/HY00214806"
+  },
+  {
+    "subcategory": "Headphones",
+    "url": "https://www.luluhypermarket.com/c/HY00214810"
+  },
+  {
+    "subcategory": "Action cameras",
+    "url": "https://www.luluhypermarket.com/c/HY00214816"
+  },
+  {
+    "subcategory": "Laptops",
+    "url": "https://www.luluhypermarket.com/c/HY00214756"
+  },
+  {
+    "subcategory": "Tablets",
+    "url": "https://www.luluhypermarket.com/c/HY00214746"
+  },
+  {
+    "subcategory": "Soundbars & home theatres",
+    "url": "https://www.luluhypermarket.com/c/HY00214800"
+  },
+  {
+    "subcategory": "Musical instruments",
+    "url": "https://www.luluhypermarket.com/c/HY00214802"
+  },
+  {
+    "subcategory": "Medical equipments",
+    "url": "https://www.luluhypermarket.com/c/HY00214828"
+  },
+  {
+    "subcategory": "Electric toothbrush",
+    "url": "https://www.luluhypermarket.com/c/HY00217370"
+  },
+  {
+    "subcategory": "Beard trimmers",
+    "url": "https://www.luluhypermarket.com/c/HY00214824"
+  },
+  {
+    "subcategory": "Hair dryer",
+    "url": "https://www.luluhypermarket.com/c/HY00217369?q=%3Adiscount-desc%3Afeature-ProductType%3AHair%2BDryer&text=#"
+  },
+  {
+    "subcategory": "WiFi routers",
+    "url": "https://www.luluhypermarket.com/c/HY93000007"
+  },
+  {
+    "subcategory": "Consoles",
+    "url": "https://www.luluhypermarket.com/c/HY00214768"
+  },
+  {
+    "subcategory": "Digital cards",
+    "url": "https://www.luluhypermarket.com/c/HY00214733"
+  },
+  {
+    "subcategory": "Titles",
+    "url": "https://www.luluhypermarket.com/c/HY00214764"
+  },
+  {
+    "subcategory": "Printers",
+    "url": "https://www.luluhypermarket.com/c/HY00214782?sort=newest-desc&q=%3Adiscount-desc"
+  },
+  {
+    "subcategory": "Storages ",
+    "url": "https://www.luluhypermarket.com/c/HY00214788?sort=discount-desc&q=%3Arelevance"
+  }
 ]
